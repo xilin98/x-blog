@@ -1,4 +1,5 @@
 ---
+date: 2022/12/3
 title: mini-vue 0 vue 3 模块之间的依赖关系
 tags:
   - mini-vue
