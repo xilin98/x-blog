@@ -15,3 +15,5 @@ vue 3 采用 monorepo 的形式组织代码，所有的模块都在 `packages` �
   - `complier-dom` 和 `complier-core` 解耦
   - 这使得 vue 可是不局限于 DOM 平台，可以渲染在其他平台, 例如 canvas
 - 响应式在 `reactivity` 模块中实现且不依赖其他包，可以独立使用
+
+test
