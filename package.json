@@ -6,8 +6,7 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server",
-    "netlify": "hexo clean && hexo s"
+    "server": "hexo server"
   },
   "hexo": {
     "version": "6.3.0"
