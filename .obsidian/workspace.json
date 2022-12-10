@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0aa8567b20426d2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bfd6b2201435e01e",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c929140d115f7bf8",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/mini-vue 0 概览.md",
+                "file": "template/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/mini-vue 0 概览.md",
+                "file": "template/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/mini-vue 0 概览.md"
+                "file": "template/post.md"
               }
             }
           }
@@ -149,11 +161,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66428bc4cc7358fa",
+  "active": "d7127129421681c1",
   "lastOpenFiles": [
-    "source/_posts/两数之和.md",
     "source/_posts/mini-vue 0 概览.md",
     "source/_posts/heLLo.md",
+    "source/images/quicker_2859eb70-7322-44a9-ad00-aa02bcbe2c18.png",
+    "source/images/quicker_7afab712-9a9f-45ba-8473-7fb7b55a465e.png",
+    "source/categories/index.md",
+    "source/_posts/两数之和.md",
     "source/_posts/hello-world.md"
   ]
 }
