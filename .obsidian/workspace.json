@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfd6b2201435e01e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/两数之和.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c929140d115f7bf8",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/mini-vue 0 概览.md",
+                "file": "source/_posts/两数之和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/mini-vue 0 概览.md",
+                "file": "source/_posts/两数之和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/mini-vue 0 概览.md"
+                "file": "source/_posts/两数之和.md"
               }
             }
           }
@@ -136,9 +150,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66428bc4cc7358fa",
+  "active": "bfd6b2201435e01e",
   "lastOpenFiles": [
-    "source/_posts/hello-world.md",
-    "source/_posts/mini-vue 0 概览.md"
+    "source/_posts/mini-vue 0 概览.md",
+    "source/_posts/heLLo.md",
+    "source/_posts/hello-world.md"
   ]
 }
