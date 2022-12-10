@@ -96,7 +96,7 @@ menu:
   #about: /about/ || fa fa-user
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
-  relax: /relax.html || fa fa-game
+  relax: https://shellshot.netlify.app/ || fa fa-heartbeat
   #archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
