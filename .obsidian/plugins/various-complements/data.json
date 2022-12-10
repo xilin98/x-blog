@@ -1,0 +1,1247 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 3,
+  "maxNumberOfWordsAsPhrase": 2,
+  "minNumberOfCharactersTriggered": 2,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": false,
+  "showComplementAutomatically": false,
+  "showIndexingStatus": false,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": true,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 2,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": true,
+  "currentVaultMinNumberOfCharacters": 2,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "automatically": {
+      "automatically": {
+        "currentVault": {
+          "count": 4,
+          "lastUpdated": 1669213403791
+        }
+      }
+    },
+    "solution": {
+      "solution": {
+        "currentVault": {
+          "count": 14,
+          "lastUpdated": 1668663535747
+        }
+      }
+    },
+    "hello！我是一个会自我增加的数字！": {
+      "hello！我是一个会自我增加的数字！": {
+        "currentVault": {
+          "count": 4,
+          "lastUpdated": 1667877824419
+        }
+      }
+    },
+    "title": {
+      "title": {
+        "currentVault": {
+          "count": 102,
+          "lastUpdated": 1669861088913
+        }
+      }
+    },
+    "createElement": {
+      "createElement": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667310135474
+        }
+      }
+    },
+    "continue": {
+      "continue": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667443133356
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "currentVault": {
+          "count": 17,
+          "lastUpdated": 1669439204468
+        }
+      }
+    },
+    "@caution": {
+      "@caution": {
+        "currentVault": {
+          "count": 6,
+          "lastUpdated": 1668093201264
+        }
+      }
+    },
+    "through": {
+      "through": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1668338302955
+        }
+      }
+    },
+    "object": {
+      "object": {
+        "customDictionary": {
+          "count": 7,
+          "lastUpdated": 1667659666953
+        }
+      }
+    },
+    "extract": {
+      "extract": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1667533681262
+        }
+      }
+    },
+    "already": {
+      "already": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667653668106
+        }
+      }
+    },
+    "Object": {
+      "Object": {
+        "currentVault": {
+          "count": 5,
+          "lastUpdated": 1668614121716
+        }
+      }
+    },
+    "attribute": {
+      "attribute": {
+        "currentVault": {
+          "count": 4,
+          "lastUpdated": 1667897079331
+        }
+      }
+    },
+    "refactor": {
+      "refactor": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667281118126
+        }
+      }
+    },
+    "componentPublicInstance": {
+      "componentPublicInstance": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667366375611
+        }
+      }
+    },
+    "represent": {
+      "represent": {
+        "currentVault": {
+          "count": 7,
+          "lastUpdated": 1668507291532
+        }
+      }
+    },
+    "toUpperCase": {
+      "toUpperCase": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1667531249336
+        }
+      }
+    },
+    "js": {
+      "js": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1667472235018
+        }
+      }
+    },
+    "dispaly": {
+      "dispaly": {
+        "currentVault": {
+          "count": 5,
+          "lastUpdated": 1667875691085
+        }
+      }
+    },
+    "variable": {
+      "variable": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1667656239954
+        }
+      }
+    },
+    "though": {
+      "though": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1667879525436
+        }
+      }
+    },
+    "isEmpty": {
+      "isEmpty": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667649352744
+        }
+      }
+    },
+    "Leverage": {
+      "Leverage": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667896892196
+        }
+      }
+    },
+    "corresponding": {
+      "corresponding": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667649435373
+        }
+      }
+    },
+    "runtime": {
+      "runtime": {
+        "currentVault": {
+          "count": 6,
+          "lastUpdated": 1669863263955
+        }
+      }
+    },
+    "implementation": {
+      "implementation": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1667293566171
+        }
+      }
+    },
+    "structure": {
+      "structure": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1668070778167
+        }
+      }
+    },
+    "benifit": {
+      "benifit": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1669213205523
+        }
+      }
+    },
+    "Page": {
+      "Page": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1668062491664
+        }
+      }
+    },
+    "Vscode": {
+      "Vscode": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1667646312279
+        }
+      }
+    },
+    "properties": {
+      "properties": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668090379001
+        }
+      }
+    },
+    "interpolation": {
+      "interpolation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667277638041
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667279760387
+        }
+      }
+    },
+    "dispalyString": {
+      "dispalyString": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667279831342
+        }
+      }
+    },
+    "genCodeFromAst": {
+      "genCodeFromAst": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1667292518405
+        }
+      }
+    },
+    "snapshot": {
+      "snapshot": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667292479437
+        }
+      }
+    },
+    "@import": {
+      "@import": {
+        "currentVault": {
+          "count": 6,
+          "lastUpdated": 1669114614097
+        }
+      }
+    },
+    "modify": {
+      "modify": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1669458339620
+        }
+      }
+    },
+    "actually": {
+      "actually": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1668504634404
+        }
+      }
+    },
+    "_createElementBlock": {
+      "_createElementBlock": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667310147325
+        }
+      }
+    },
+    "mountComponent": {
+      "mountComponent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667381865599
+        }
+      }
+    },
+    "yourself": {
+      "yourself": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667447215216
+        }
+      }
+    },
+    "bilibili": {
+      "bilibili": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667447754993
+        }
+      }
+    },
+    "ucFirst": {
+      "ucFirst": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667531272938
+        }
+      }
+    },
+    "lowerCaseVersion": {
+      "lowerCaseVersion": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667531966666
+        }
+      }
+    },
+    "maxlength": {
+      "maxlength": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1667533182617
+        }
+      }
+    },
+    "extractContents": {
+      "extractContents": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667533683599
+        }
+      }
+    },
+    "extractCurrencyValue": {
+      "extractCurrencyValue": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667533694862
+        }
+      }
+    },
+    "isReadMessageMap": {
+      "isReadMessageMap": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667538585724
+        }
+      }
+    },
+    "nextTick": {
+      "nextTick": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1667571666627
+        }
+      }
+    },
+    "certain": {
+      "certain": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667571751030
+        }
+      }
+    },
+    "@optimze。高亮显示前": {
+      "@optimze。高亮显示前": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667577540150
+        }
+      }
+    },
+    "ability": {
+      "ability": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667621038644
+        }
+      }
+    },
+    "WebSocket": {
+      "WebSocket": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1667626299888
+        }
+      }
+    },
+    "default": {
+      "default": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1667650529238
+        }
+      }
+    },
+    "launch": {
+      "launch": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1667653840635
+        }
+      }
+    },
+    "userDataDir": {
+      "userDataDir": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1667653683578
+        }
+      }
+    },
+    "restrict": {
+      "restrict": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667640468930
+        }
+      }
+    },
+    "runtimeArgs": {
+      "runtimeArgs": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1669213783579
+        }
+      }
+    },
+    "sourceMapPathOverrides": {
+      "sourceMapPathOverrides": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667650498430
+        }
+      }
+    },
+    "directly": {
+      "directly": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1667652757260
+        }
+      }
+    },
+    "character": {
+      "character": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667650913010
+        }
+      }
+    },
+    "捕获组": {
+      "捕获组": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667651070218
+        }
+      }
+    },
+    "user-data-dir": {
+      "user-data-dir": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667652562020
+        }
+      }
+    },
+    "{workspaceFolder}": {
+      "{workspaceFolder}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1667653330722
+        }
+      }
+    },
+    "conclude": {
+      "conclude": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1667653463243
+        }
+      }
+    },
+    "startup": {
+      "startup": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667653581498
+        }
+      }
+    },
+    "runtimeExecutable": {
+      "runtimeExecutable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667653783514
+        }
+      }
+    },
+    "parameter": {
+      "parameter": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667653829559
+        }
+      }
+    },
+    "conclusion": {
+      "conclusion": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667653883716
+        }
+      }
+    },
+    "connect": {
+      "connect": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667655391029
+        }
+      }
+    },
+    "sourcesContent": {
+      "sourcesContent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667655667963
+        }
+      }
+    },
+    "source": {
+      "source": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1667657208438
+        }
+      }
+    },
+    "array": {
+      "array": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1667656134681
+        }
+      }
+    },
+    "useful": {
+      "useful": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667656917753
+        }
+      }
+    },
+    "product": {
+      "product": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667656962491
+        }
+      }
+    },
+    "responsible": {
+      "responsible": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1667811815236
+        }
+      }
+    },
+    "cl": {
+      "cl": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667657311944
+        }
+      }
+    },
+    "Conclusion": {
+      "Conclusion": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667660876977
+        }
+      }
+    },
+    "source-map": {
+      "source-map": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667661267340
+        }
+      }
+    },
+    "熟悉基本的": {
+      "熟悉基本的": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667722825390
+        }
+      }
+    },
+    "Technically": {
+      "Technically": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667724637257
+        }
+      }
+    },
+    "@optimze": {
+      "@optimze": {
+        "currentVault": {
+          "count": 5,
+          "lastUpdated": 1668304431518
+        }
+      }
+    },
+    "project": {
+      "project": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1667883592590
+        }
+      }
+    },
+    "x-vue-admin": {
+      "x-vue-admin": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1668579244730
+        }
+      }
+    },
+    "determined": {
+      "determined": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667879393089
+        }
+      }
+    },
+    "according": {
+      "according": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667879618443
+        }
+      }
+    },
+    "anywhere": {
+      "anywhere": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667884466096
+        }
+      }
+    },
+    "Encapsulate": {
+      "Encapsulate": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667889984201
+        }
+      }
+    },
+    "navigator": {
+      "navigator": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667896928872
+        }
+      }
+    },
+    "el-menu": {
+      "el-menu": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667897003744
+        }
+      }
+    },
+    "together": {
+      "together": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1667902395257
+        }
+      }
+    },
+    "understand": {
+      "understand": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667974451706
+        }
+      }
+    },
+    "optimize": {
+      "optimize": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667974541083
+        }
+      }
+    },
+    "@confuse": {
+      "@confuse": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1667985648064
+        }
+      }
+    },
+    "✨@import": {
+      "✨@import": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668077835063
+        }
+      }
+    },
+    "which": {
+      "which": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668079074428
+        }
+      }
+    },
+    "Js": {
+      "Js": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668080159743
+        }
+      }
+    },
+    "reactiveEffect": {
+      "reactiveEffect": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1668082193885
+        }
+      }
+    },
+    "hasInstance": {
+      "hasInstance": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668087446771
+        }
+      }
+    },
+    "decorator": {
+      "decorator": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668090750414
+        }
+      }
+    },
+    "防抖": {
+      "防抖": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668090785019
+        }
+      }
+    },
+    "clearTimeout": {
+      "clearTimeout": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668092121859
+        }
+      }
+    },
+    "节流": {
+      "节流": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668092220117
+        }
+      }
+    },
+    "isThrottle": {
+      "isThrottle": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1668092520593
+        }
+      }
+    },
+    "thisArg": {
+      "thisArg": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668093797854
+        }
+      }
+    },
+    "infinite": {
+      "infinite": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668094206382
+        }
+      }
+    },
+    "FooWithSlots": {
+      "FooWithSlots": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668094735449
+        }
+      }
+    },
+    "Limitation": {
+      "Limitation": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668138484450
+        }
+      }
+    },
+    "onmessage": {
+      "onmessage": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668142540985
+        }
+      }
+    },
+    "resolve": {
+      "resolve": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668142558741
+        }
+      }
+    },
+    "postMessage": {
+      "postMessage": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668142575545
+        }
+      }
+    },
+    "copydummy": {
+      "copydummy": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1668142731083
+        }
+      }
+    },
+    "dummy": {
+      "dummy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668142735813
+        }
+      }
+    },
+    "Invoke": {
+      "Invoke": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668146764143
+        }
+      }
+    },
+    "isPrime": {
+      "isPrime": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668173397962
+        }
+      }
+    },
+    "{i": {
+      "{i": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668174424016
+        }
+      }
+    },
+    "admin": {
+      "admin": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668220063644
+        }
+      }
+    },
+    "finish": {
+      "finish": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668338379748
+        }
+      }
+    },
+    "decision": {
+      "decision": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668493088454
+        }
+      }
+    },
+    "exercise": {
+      "exercise": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668496561271
+        }
+      }
+    },
+    "concentrate": {
+      "concentrate": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1668496827849
+        }
+      }
+    },
+    "unconcious": {
+      "unconcious": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668496795066
+        }
+      }
+    },
+    "excise": {
+      "excise": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668503381654
+        }
+      }
+    },
+    "Utilize": {
+      "Utilize": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668503671333
+        }
+      }
+    },
+    "javascript": {
+      "javascript": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668504601372
+        }
+      }
+    },
+    "enumerable": {
+      "enumerable": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668507576420
+        }
+      }
+    },
+    "一样学习其他东西！": {
+      "一样学习其他东西！": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668587102396
+        }
+      }
+    },
+    "ultimately": {
+      "ultimately": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668611357976
+        }
+      }
+    },
+    "view": {
+      "view": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668612564481
+        }
+      }
+    },
+    "Undefined": {
+      "Undefined": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1668668282153
+        }
+      }
+    },
+    "things": {
+      "things": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668688529713
+        }
+      }
+    },
+    "difficult": {
+      "difficult": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1668861818754
+        }
+      }
+    },
+    "package": {
+      "package": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1669862111455
+        }
+      }
+    },
+    "node_modules": {
+      "node_modules": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669213126757
+        }
+      }
+    },
+    "special-script": {
+      "special-script": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669213185163
+        }
+      }
+    },
+    "时所进行的操作": {
+      "时所进行的操作": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669215550715
+        }
+      }
+    },
+    "运行脚本的方式：": {
+      "运行脚本的方式：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669218968138
+        }
+      }
+    },
+    "面试": {
+      "面试": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669277332791
+        }
+      }
+    },
+    "Element-plus": {
+      "Element-plus": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669346494039
+        }
+      }
+    },
+    "netlify": {
+      "netlify": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669374310989
+        }
+      }
+    },
+    "阶段（“目标阶段”：事件到达元素）没有被单独处理：捕获阶段和冒泡阶段的处理程序都在该阶段被触发。": {
+      "阶段（“目标阶段”：事件到达元素）没有被单独处理：捕获阶段和冒泡阶段的处理程序都在该阶段被触发。": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669441300112
+        }
+      }
+    },
+    "@practice": {
+      "@practice": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669445904543
+        }
+      }
+    },
+    "native": {
+      "native": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669455925306
+        }
+      }
+    },
+    "up-to-date": {
+      "up-to-date": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669458486485
+        }
+      }
+    },
+    "general": {
+      "general": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1669788268890
+        }
+      }
+    },
+    "funtion": {
+      "funtion": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669788463332
+        }
+      }
+    },
+    "monorepo": {
+      "monorepo": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1669862061879
+        }
+      }
+    },
+    "模块": {
+      "模块": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669863253778
+        }
+      }
+    }
+  }
+}

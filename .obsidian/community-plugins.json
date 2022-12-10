@@ -1,3 +1,21 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-vimrc-support",
+  "various-complements",
+  "tag-wrangler",
+  "tag-page-preview",
+  "obsidian-spaced-repetition",
+  "obsidian-search-everywhere-plugin",
+  "obsidian-reminder-plugin",
+  "obsidian-remember-file-state",
+  "remember-cursor-position",
+  "quick-explorer",
+  "ninja-cursor",
+  "link-favicon",
+  "obsidian-image-toolkit",
+  "obsidian-hover-editor",
+  "highlightr-plugin",
+  "execute-code",
+  "obsidian-excalidraw-plugin",
+  "emoji-shortcodes"
 ]

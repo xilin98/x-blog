@@ -1,0 +1,36 @@
+/*  comment */
+.cm-comment {
+  font-weight: 100;
+  color: #bdbdbd !important;
+  opacity: 0.8;
+}
+
+.cm-comment:hover {
+  opacity: 1;
+}
+
+.cm-comment-start,
+.cm-comment-end {
+  display: none;
+}
+
+/* fira-code ligatures */
+.cm-line {
+  font-variant-ligatures: normal !important;
+  letter-spacing: 0;
+}
+
+.cm-hmd-frontmatter {
+  color: #484d6d !important;
+}
+
+/* hight-light color */
+mark {
+  background-color: #57a773;
+  color: white;
+}
+
+/* cm active */
+.cm-active {
+  width: 100%;
+}

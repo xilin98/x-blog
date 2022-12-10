@@ -1,0 +1,386 @@
+{
+  "main": {
+    "id": "182c532e2cc0cb59",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c002aa0c3d2004",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"mini-vue/mini-vue-9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.7778}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JS/JavaScript Naming Conventions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"mini-vue/mini-vue-9.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":37.8003}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"JS/JavaScript Naming Conventions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"mini-vue/mini-vue-8.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":2.25}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue-work-shop/validating-1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue doc/路由.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue doc/状态管理.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue doc/测试.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue doc/工具链.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue doc/单文件组件.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue doc/TransitionGroup.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue doc/Transition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue doc/Transition s.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue doc/Teleport.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue doc/KeepAlive.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue/路由传参.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue/表单输入绑定.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue/自定义事件.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "76c002aa0c3d2004",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"vue/组件.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mini-vue/mini-vue-9.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40a988e9a52a7d49",
+    "type": "split",
+    "children": [
+      {
+        "id": "65054ae66f5d8dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cefbf1ea71740bd4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "48e87668cbff994a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252
+  },
+  "right": {
+    "id": "c148e523afc30faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "243f00ab85bfe5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "871c88817e2a50d9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fc0bdfe9ef21e05",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d023d31606599eb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "21ec8a9ecc150b08",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "711704664311ffe3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "753c87634bb375c1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c1c08196abf1cf9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mini-vue/mini-vue-9.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b19cae20e3c73eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e56d8f02e4dc66",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mini-vue/mini-vue-9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb293b9690c64009",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mini-vue/mini-vue-9.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "976a034505021d6d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83a0a7b947146578",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "83a0a7b947146578",
+                  "group": null,
+                  "state": "{\"type\":\"quiet-outline\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.65927124023438,
+    "collapsed": true
+  },
+  "active": "76c002aa0c3d2004",
+  "lastOpenFiles": [
+    "JS/JavaScript Naming Conventions.md",
+    "mini-vue/mini-vue-9.md",
+    "mini-vue/mini-vue-8.md",
+    "vue-work-shop/validating-1.md",
+    "vue doc/路由.md",
+    "vue doc/状态管理.md",
+    "vue doc/测试.md",
+    "vue doc/工具链.md",
+    "vue doc/单文件组件.md",
+    "vue doc/TransitionGroup.md"
+  ]
+}
