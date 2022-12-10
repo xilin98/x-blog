@@ -117,3 +117,6 @@ favicon:
   apple_touch_icon: /images/apple-touch-icon.png
   safari_pinned_tab: /images/logo.svg
   android_manifest: /images/manifest.json
+
+plugins:
+  - hexo-tag-embed

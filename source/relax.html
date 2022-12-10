@@ -1,0 +1,237 @@
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+  />
+</head>
+
+<div class="fixed text-white text-sm ml-2 mt-1 select-none">
+  <span>Score: </span> <span id="scoreEl">0</span>
+</div>
+<canvas id="canvas"></canvas>
+
+<script>
+  const canvas = document.querySelector("#canvas");
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  const ctx = canvas.getContext("2d");
+  class Player {
+    constructor(x, y, r, color) {
+      this.x = x;
+      this.y = y;
+      this.r = r;
+      this.color = color;
+    }
+    draw() {
+      ctx.save();
+      ctx.beginPath();
+      ctx.arc(this.x, this.y, this.r, 0, 2 * Math.PI);
+      ctx.fillStyle = this.color;
+      ctx.fill();
+      ctx.restore();
+    }
+  }
+
+  class Projectile {
+    constructor(x, y, r, color, velocity) {
+      this.x = x;
+      this.y = y;
+      this.r = r;
+      this.color = color;
+      this.velocity = velocity;
+    }
+    draw() {
+      ctx.save();
+      ctx.beginPath();
+      ctx.arc(this.x, this.y, this.r, 0, 2 * Math.PI);
+      ctx.fillStyle = this.color;
+      ctx.fill();
+      ctx.restore();
+    }
+    update() {
+      this.draw();
+      this.x = this.x + this.velocity.x;
+      this.y = this.y + this.velocity.y;
+    }
+  }
+
+  class Enemy {
+    constructor(x, y, r, color, velocity) {
+      this.x = x;
+      this.y = y;
+      this.r = r;
+      this.color = color;
+      this.velocity = velocity;
+    }
+    draw() {
+      ctx.save();
+      ctx.beginPath();
+      ctx.arc(this.x, this.y, this.r, 0, 2 * Math.PI);
+      ctx.fillStyle = this.color;
+      ctx.fill();
+      ctx.restore();
+    }
+    update() {
+      this.draw();
+      this.x = this.x + this.velocity.x;
+      this.y = this.y + this.velocity.y;
+    }
+  }
+
+  class Particle {
+    constructor(x, y, r, color, velocity) {
+      this.x = x;
+      this.y = y;
+      this.r = r;
+      this.color = color;
+      this.velocity = velocity;
+      this.alpha = 1;
+    }
+
+    draw() {
+      ctx.save();
+      ctx.beginPath();
+      ctx.globalAlpha = this.alpha;
+      ctx.arc(this.x, this.y, this.r, 0, 2 * Math.PI);
+      ctx.fillStyle = this.color;
+      ctx.fill();
+      ctx.restore();
+    }
+
+    update() {
+      this.alpha -= 0.01;
+      this.draw();
+      this.velocity.x *= friction;
+      this.velocity.y *= friction;
+      this.x = this.x + this.velocity.x;
+      this.y = this.y + this.velocity.y;
+    }
+  }
+
+  function spwanEnemy() {
+    setInterval(() => {
+      const radius = Math.random() * (30 - 4) + 4;
+      let x;
+      let y;
+      if (Math.random() < 0.5) {
+        x = Math.random() < 0.5 ? 0 - radius : canvas.width + radius;
+        y = Math.random() * canvas.height;
+      } else {
+        x = Math.random() * canvas.width;
+        y = Math.random() < 0.5 ? 0 - radius : canvas.height + radius;
+      }
+      const color = `hsl(${Math.random() * 360}, 50%, 50%)`;
+      const angle = Math.atan2(canvas.height / 2 - y, canvas.width / 2 - x);
+      const velocity = {
+        x: Math.cos(angle),
+        y: Math.sin(angle),
+      };
+      enemies.push(new Enemy(x, y, radius, color, velocity));
+    }, 1000);
+  }
+  const scoreEl = document.querySelector("#scoreEl");
+  let score = 0;
+  const enemies = [];
+  const projectiles = [];
+  const particles = [];
+  const player = new Player(canvas.width / 2, canvas.height / 2, 10, "white");
+  let animationId;
+
+  let friction = 0.99;
+
+  function animate() {
+    let animationId = requestAnimationFrame(animate);
+
+    ctx.fillStyle = "rgba(0,0,0,0.1)";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    player.draw();
+    projectiles.forEach((projectile) => {
+      projectile.update();
+
+      if (
+        projectile.x + projectile.r < 0 ||
+        projectile.x - projectile.r > canvas.width ||
+        projectile.y + projectile.r < 0 ||
+        projectile.y - projectile.r > canvas.height
+      ) {
+        setTimeout(() => {
+          projectiles.splice(projectile, 1);
+        }, 0);
+      }
+    });
+
+    enemies.forEach((enemy, index) => {
+      enemy.update();
+
+      const dist = Math.hypot(player.x - enemy.x, player.y - enemy.y);
+
+      if (dist - enemy.r - player.r < 1) {
+        cancelAnimationFrame(animationId);
+      }
+
+      projectiles.forEach((projectile, projectileIndex) => {
+        const dist = Math.hypot(projectile.x - enemy.x, projectile.y - enemy.y);
+        //  shot enemy
+        if (dist - enemy.r - projectile.r < 1) {
+          score += 100;
+          scoreEl.innerHTML = score;
+          for (let i = 0; i < enemy.r; i++) {
+            particles.push(
+              new Particle(
+                projectile.x,
+                projectile.y,
+                Math.random() * 2,
+                enemy.color,
+                {
+                  x: (Math.random() - 0.5) * (Math.random() * 6),
+                  y: (Math.random() - 0.5) * (Math.random() * 6),
+                }
+              )
+            );
+          }
+          if (enemy.r > 20) {
+            gsap.to(enemy, {
+              r: enemy.r - 10,
+            });
+            setTimeout(() => {
+              projectiles.splice(projectileIndex, 1);
+            }, 0);
+          } else {
+            score += 100;
+            scoreEl.innerHTML = score;
+            setTimeout(() => {
+              enemies.splice(index, 1);
+              projectiles.splice(projectileIndex, 1);
+            }, 0);
+          }
+        }
+      });
+    });
+
+    particles.forEach((particle, index) => {
+      if (particle.alpha <= 0) {
+        setTimeout(() => {
+          particles.splice(index, 1);
+        }, 0);
+      } else {
+        particle.update();
+      }
+    });
+  }
+  animate();
+  spwanEnemy();
+  addEventListener("click", (event) => {
+    const angle = Math.atan2(
+      event.clientY - canvas.height / 2,
+      event.clientX - canvas.width / 2
+    );
+    const velocity = {
+      x: Math.cos(angle) * 6,
+      y: Math.sin(angle) * 6,
+    };
+    projectiles.push(
+      new Projectile(canvas.width / 2, canvas.height / 2, 5, "white", velocity)
+    );
+  });
+</script>
