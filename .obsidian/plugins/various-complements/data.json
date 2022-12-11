@@ -79,14 +79,6 @@
         }
       }
     },
-    "@caution": {
-      "@caution": {
-        "currentVault": {
-          "count": 6,
-          "lastUpdated": 1668093201264
-        }
-      }
-    },
     "through": {
       "through": {
         "customDictionary": {
@@ -175,110 +167,6 @@
         }
       }
     },
-    "clearTimeout": {
-      "clearTimeout": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1668092121859
-        }
-      }
-    },
-    "节流": {
-      "节流": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1668092220117
-        }
-      }
-    },
-    "isThrottle": {
-      "isThrottle": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1668092520593
-        }
-      }
-    },
-    "thisArg": {
-      "thisArg": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668093797854
-        }
-      }
-    },
-    "infinite": {
-      "infinite": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668094206382
-        }
-      }
-    },
-    "FooWithSlots": {
-      "FooWithSlots": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668094735449
-        }
-      }
-    },
-    "Limitation": {
-      "Limitation": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1668138484450
-        }
-      }
-    },
-    "onmessage": {
-      "onmessage": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1668142540985
-        }
-      }
-    },
-    "resolve": {
-      "resolve": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668142558741
-        }
-      }
-    },
-    "postMessage": {
-      "postMessage": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1668142575545
-        }
-      }
-    },
-    "copydummy": {
-      "copydummy": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1668142731083
-        }
-      }
-    },
-    "dummy": {
-      "dummy": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668142735813
-        }
-      }
-    },
-    "Invoke": {
-      "Invoke": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668146764143
-        }
-      }
-    },
     "isPrime": {
       "isPrime": {
         "currentVault": {
@@ -362,8 +250,8 @@
     "javascript": {
       "javascript": {
         "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1670686293861
+          "count": 6,
+          "lastUpdated": 1670740474712
         }
       }
     },
@@ -556,6 +444,14 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1670685644022
+        }
+      }
+    },
+    "中指定": {
+      "中指定": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670739336274
         }
       }
     }
