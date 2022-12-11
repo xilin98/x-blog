@@ -15,8 +15,9 @@ ESTree 标准定义了一系列用于表示源代码结构的节点类型，并�
 
 ESTree 标准的目的是让 JavaScript 编译器和工具之间能够交换源代码的语法信息，从而提高 JavaScript 代码的可移植性和可复用性。
 
-AST 中的节点类型涵盖了 javaScript 中的所有语法结构
+==AST 中的节点类型涵盖了 javaScript 中的所有语法结构==
 下面是常见的节点类型:
+
 -   Program：表示整个源代码的结构。
 -   BlockStatement：表示代码块，例如 if 语句中的代码块、函数主体等。
 -   VariableDeclaration：表示变量声明的语句。
@@ -35,3 +36,9 @@ AST 中的节点类型涵盖了 javaScript 中的所有语法结构
 -   DoWhileStatement：表示 do-while 循环语句，包括循环条件和执行的代码块。
 -   BreakStatement：表示 break 语句。
 -   ContinueStatement：表示 continue 语句。
+
+在 AST 中，每个节点类型都是独立的，它们之间没有任何继承关系。例如，“FunctionDeclaration”节点类型并不是“BlockStatement”节点类型的子类型，它们之间没有任何关系。
+
+不过，在 AST 中，一些节点类型可能会拥有其他节点类型作为它的子节点。例如，一个“FunctionDeclaration”节点可能会有一个“BlockStatement”节点作为它的子节点，表示函数主体。但这并不意味着“FunctionDeclaration”是“BlockStatement”的子类型，它们之间只是有一个父子关系，并不存在继承关系。
+
+[AST explorer](https://astexplorer.net/) 是探索 AST 的好地方。
