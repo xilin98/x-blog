@@ -1,71 +1,206 @@
 {
   "main": {
-    "id": "52f7e10892a1139f",
+    "id": "182c532e2cc0cb59",
     "type": "split",
     "children": [
       {
-        "id": "4aa88b3decdac1d8",
+        "id": "3433755f51413844",
         "type": "tabs",
         "children": [
           {
-            "id": "66428bc4cc7358fa",
+            "id": "b1bc31040806a236",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/mini-vue 0 概览.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aa8567b20426d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/post.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfd6b2201435e01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/mini-vue 0 概览.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f10ef8425b6b5151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/初识 Babel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c65c6fc39bc16bfa",
-            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "instruction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"interview/instruction.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "m 选择排序 (selection sort)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"algorithm/m 选择排序 (selection sort).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":17.82038467664086}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "鼠标拖放事件",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"js info/鼠标拖放事件.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":101,\"ch\":46},\"to\":{\"line\":100,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "How",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"xilin/How.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":197,\"ch\":0},\"to\":{\"line\":197,\"ch\":0}},\"scroll\":122.85070830517452}"
+                },
+                {
+                  "title": "你不知到的JavaScript",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"book notes/你不知到的JavaScript.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "计算机网络-自顶向下方法第七版",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"books/计算机网络-自顶向下方法第七版.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "鼠标事件",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"js info/鼠标事件.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":214,\"ch\":11},\"to\":{\"line\":214,\"ch\":15}},\"scroll\":108.90443465213275}"
+                },
+                {
+                  "title": "鼠标拖放事件",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"js info/鼠标拖放事件.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":14},\"to\":{\"line\":42,\"ch\":14}},\"scroll\":27.39076982071628}"
+                },
+                {
+                  "title": "How",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"xilin/How.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":7},\"to\":{\"line\":21,\"ch\":7}},\"scroll\":44.36997969683672}"
+                },
+                {
+                  "title": "SVG",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SVG.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fixed spacing",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Excalidraw/Scripts/Downloaded/Fixed spacing.svg\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "How",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"xilin/How.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":190,\"ch\":0},\"to\":{\"line\":190,\"ch\":0}},\"scroll\":176.68842539996672}"
+                },
+                {
+                  "title": "两数之和",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"algorithm/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":8},\"to\":{\"line\":19,\"ch\":8}},\"scroll\":103.91066040193503}"
+                },
+                {
+                  "title": "cat",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"_/assets/cat.jpeg\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "avatar",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"_/assets/avatar.gif\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "AND gate",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"_/assets/AND gate.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2022-07-29_2022-09-11 17.34.27.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"_/assets/2022-07-29_2022-09-11 17.34.27.excalidraw.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "babel 2 the AST",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"babel 2 the AST.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "两数之和",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"algorithm/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "How",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"xilin/How.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
                 "file": "source/_posts/Babel 流程之始 解析阶段.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e01f3d1a44a31cb9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Babel 流程之始 解析阶段",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/Babel 流程之始 解析阶段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Babel 抽象语法树",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/Babel 抽象语法树.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "初识 Babel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/初识 Babel.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":3},\"to\":{\"line\":4,\"ch\":3}}}"
+                },
+                {
+                  "title": "两数之和",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Babel 抽象语法树",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/Babel 抽象语法树.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/Babel 抽象语法树.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,73 +208,76 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "02a2de0a5119d8a3",
+    "id": "40a988e9a52a7d49",
     "type": "split",
     "children": [
       {
-        "id": "d1d6a5576d3cb765",
+        "id": "65054ae66f5d8dab",
         "type": "tabs",
         "children": [
           {
-            "id": "d7127129421681c1",
+            "id": "cefbf1ea71740bd4",
             "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "baf683f7f4c14110",
-            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#js-info",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
           {
-            "id": "5b5c3014e3120b3f",
+            "id": "711704664311ffe3",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
-              "type": "starred",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "c929140d115f7bf8",
-    "type": "split",
-    "children": [
-      {
-        "id": "7a7dba9d3ac74526",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "0f607ad1c0bdb937",
+            "id": "60e56d8f02e4dc66",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Babel 流程之始 解析阶段.md",
+                "file": "source/_posts/Babel 抽象语法树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,20 +289,38 @@
             }
           },
           {
-            "id": "fea334931609836c",
+            "id": "bb293b9690c64009",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Babel 流程之始 解析阶段.md",
-                "linksCollapsed": false,
+                "file": "source/_posts/Babel 抽象语法树.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b29386a4edbbfc29",
+            "id": "976a034505021d6d",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -174,50 +330,184 @@
             }
           },
           {
-            "id": "9be1833c468e06f9",
+            "id": "27d2563c522a3f37",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
-              "type": "outline",
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d4b340efb57d9b2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c148e523afc30faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "243f00ab85bfe5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48e87668cbff994a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
               "state": {
-                "file": "source/_posts/Babel 流程之始 解析阶段.md"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
           {
-            "id": "4a1dc80886da206f",
+            "id": "dc1003a1cd09a3c2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a498151d9a2bea62",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
           },
           {
-            "id": "9f5fa0d4df91a918",
+            "id": "4b9b244b327dc449",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "reminder-list",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "0c9de1c562ddd93e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe573fc731f0fd2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/Babel 抽象语法树.md"
+              }
+            }
+          },
+          {
+            "id": "d5d263916898dad1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 347.5
   },
-  "active": "c65c6fc39bc16bfa",
+  "active": "e01f3d1a44a31cb9",
   "lastOpenFiles": [
-    "source/_posts/heLLo ：）.md",
     "source/_posts/Babel 流程之始 解析阶段.md",
+    "source/_posts/Babel 抽象语法树.md",
     "source/_posts/初识 Babel.md",
     "source/_posts/两数之和.md",
-    "source/_posts/mini-vue 0 概览.md",
-    "source/categories/index.md",
-    "template/post.md",
-    "source/images/quicker_2859eb70-7322-44a9-ad00-aa02bcbe2c18.png",
-    "source/images/quicker_7afab712-9a9f-45ba-8473-7fb7b55a465e.png",
-    "source/_posts/hello-world.md"
+    "algorithm/两数之和.md",
+    "interview/instruction.md",
+    "algorithm/m 选择排序 (selection sort).md",
+    "js info/鼠标拖放事件.md",
+    "xilin/How.md",
+    "book notes/你不知到的JavaScript.md"
   ]
 }

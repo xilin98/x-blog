@@ -1,4 +1,15 @@
 {
-  "accentColor": "",
-  "theme": "moonstone"
+  "baseFontSize": 15,
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Shimmering Focus",
+  "interfaceFontFamily": "Fira Code,Source Han Serif SC VF",
+  "textFontFamily": "Fira Code,Source Han Serif SC VF",
+  "monospaceFontFamily": "Fira Code",
+  "enabledCssSnippets": [
+    "comment",
+    "font",
+    "custom"
+  ],
+  "accentColor": "#57a773"
 }

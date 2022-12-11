@@ -1,10 +1,31 @@
 {
-  "attachmentFolderPath": "source/images",
-  "vimMode": true,
-  "useMarkdownLinks": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "vimMode": true,
+  "readableLineLength": true,
+  "trashOption": "local",
+  "fileSortOrder": "byCreatedTimeReverse",
   "newFileLocation": "folder",
-  "newFileFolderPath": "source/_posts",
+  "newFileFolderPath": "inbox",
+  "attachmentFolderPath": "_/assets",
+  "userIgnoreFilters": [
+    "assets/",
+    "box/"
+  ],
+  "smartIndentList": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showIndentGuide": false,
+  "useTab": false,
   "tabSize": 2
 }

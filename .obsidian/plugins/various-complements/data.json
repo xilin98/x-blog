@@ -250,8 +250,8 @@
     "javascript": {
       "javascript": {
         "customDictionary": {
-          "count": 6,
-          "lastUpdated": 1670740474712
+          "count": 3,
+          "lastUpdated": 1670748557314
         }
       }
     },
@@ -436,30 +436,6 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1669863253778
-        }
-      }
-    },
-    "mini-vue": {
-      "mini-vue": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1670685644022
-        }
-      }
-    },
-    "中指定": {
-      "中指定": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1670739336274
-        }
-      }
-    },
-    "phase": {
-      "phase": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1670741958258
         }
       }
     }
