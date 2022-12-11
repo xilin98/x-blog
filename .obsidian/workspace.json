@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/Babel 流程之始 parse.md",
+                "file": "source/_posts/Babel 流程之始 解析阶段.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Babel 流程之始 parse.md",
+                "file": "source/_posts/Babel 流程之始 解析阶段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Babel 流程之始 parse.md",
+                "file": "source/_posts/Babel 流程之始 解析阶段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Babel 流程之始 parse.md"
+                "file": "source/_posts/Babel 流程之始 解析阶段.md"
               }
             }
           },
@@ -209,10 +209,10 @@
   },
   "active": "c65c6fc39bc16bfa",
   "lastOpenFiles": [
+    "source/_posts/heLLo ：）.md",
+    "source/_posts/Babel 流程之始 解析阶段.md",
     "source/_posts/初识 Babel.md",
     "source/_posts/两数之和.md",
-    "source/_posts/Babel 流程之始 parse.md",
-    "source/_posts/heLLo ：）.md",
     "source/_posts/mini-vue 0 概览.md",
     "source/categories/index.md",
     "template/post.md",
