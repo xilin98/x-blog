@@ -5,7 +5,6 @@ tag:
   - babel
 ---
 
-
 ## Estree
 
 为了让机器能够理解代码的含义我们把代码转换为了抽象语法树（AST）, AST 的结构是有对应的标准的。在 javascript 中， AST 通常遵循 `estree` 标准.
