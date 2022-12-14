@@ -11,7 +11,7 @@
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
-  "displaySVGInPreview": false,
+  "displaySVGInPreview": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": true,
   "width": "400",

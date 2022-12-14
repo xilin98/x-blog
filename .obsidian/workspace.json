@@ -88,8 +88,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7cba110e1a3b2fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/Inteview Question.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#js-info",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Babel 抽象语法树.md",
+                "file": "source/_posts/Inteview Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Babel 抽象语法树.md",
+                "file": "source/_posts/Inteview Question.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Babel 抽象语法树.md"
+                "file": "source/_posts/Inteview Question.md"
               }
             }
           },
@@ -376,17 +399,17 @@
     "direction": "horizontal",
     "width": 289.5
   },
-  "active": "cefbf1ea71740bd4",
+  "active": "b7cba110e1a3b2fb",
   "lastOpenFiles": [
-    "source/_posts/Babel 流程之始 解析阶段.md",
+    "source/Untitled.md",
     "source/_posts/Babel 抽象语法树.md",
+    "source/_posts/Babel 流程之始 解析阶段.md",
     "source/_posts/初识 Babel.md",
     "source/_posts/两数之和.md",
     "algorithm/两数之和.md",
     "interview/instruction.md",
     "algorithm/m 选择排序 (selection sort).md",
     "js info/鼠标拖放事件.md",
-    "xilin/How.md",
-    "book notes/你不知到的JavaScript.md"
+    "xilin/How.md"
   ]
 }
