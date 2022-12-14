@@ -244,13 +244,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "c148e523afc30faf",
@@ -378,7 +376,7 @@
     "direction": "horizontal",
     "width": 289.5
   },
-  "active": "e01f3d1a44a31cb9",
+  "active": "cefbf1ea71740bd4",
   "lastOpenFiles": [
     "source/_posts/Babel 流程之始 解析阶段.md",
     "source/_posts/Babel 抽象语法树.md",
