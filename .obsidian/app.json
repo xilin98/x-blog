@@ -11,7 +11,7 @@
   "trashOption": "local",
   "fileSortOrder": "byCreatedTimeReverse",
   "newFileLocation": "folder",
-  "newFileFolderPath": "inbox",
+  "newFileFolderPath": "source/_posts",
   "attachmentFolderPath": "_/assets",
   "userIgnoreFilters": [
     "assets/",
@@ -27,5 +27,7 @@
   },
   "showIndentGuide": false,
   "useTab": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }

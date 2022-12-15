@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Babel 抽象语法树",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/Babel 抽象语法树.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":35.30730380308602}"
+                },
+                {
                   "title": "Babel 流程之始 解析阶段",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/Babel 流程之始 解析阶段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -82,8 +88,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/Babel 抽象语法树.md",
-                "mode": "preview",
+                "file": "box/2022-12-01.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -98,6 +104,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2022-12-01",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"box/2022-12-01.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "post",
@@ -116,15 +128,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "box/2022-12-01.md",
+                "file": "box/2022-12-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#n",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,8 +290,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -363,9 +373,16 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "14df00ee261915fa",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c9de1c562ddd93e",
@@ -396,17 +413,17 @@
     "direction": "horizontal",
     "width": 371.5
   },
-  "active": "b7cba110e1a3b2fb",
+  "active": "e01f3d1a44a31cb9",
   "lastOpenFiles": [
+    "source/_posts/Babel 抽象语法树.md",
+    "box/2022-12-02.md",
+    "box/2022-12-01.md",
     "template/post.md",
     "source/_posts/Inteview Question.md",
     "source/Untitled.md",
-    "source/_posts/Babel 抽象语法树.md",
     "source/_posts/Babel 流程之始 解析阶段.md",
     "source/_posts/初识 Babel.md",
     "source/_posts/两数之和.md",
-    "algorithm/两数之和.md",
-    "interview/instruction.md",
-    "algorithm/m 选择排序 (selection sort).md"
+    "algorithm/两数之和.md"
   ]
 }
