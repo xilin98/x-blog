@@ -1,5 +1,6 @@
-
 ---
-post {{Date}}
-title: {{titile}}
+post: {{Date}}
+title: {{title}}
+tags: 
+categories:
 ---

@@ -5,12 +5,12 @@
   "daily": {
     "format": "",
     "template": "",
-    "folder": "/box",
+    "folder": "source/_posts",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "folder": "/box",
+    "folder": "",
     "template": "",
     "enabled": true
   },

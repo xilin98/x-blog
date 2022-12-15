@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "mini-vue 0 概览",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue 0 概览.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":22},\"to\":{\"line\":9,\"ch\":22}},\"scroll\":0}"
+                },
+                {
+                  "title": "post",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/post.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "2022-12-01",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"box/2022-12-01.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Babel 抽象语法树",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/Babel 抽象语法树.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -85,14 +103,16 @@
                 }
               ]
             },
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "box/2022-12-01.md",
+                "file": "template/post.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -104,6 +124,30 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "post",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/post.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Changelog",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"node_modules/stylus/Changelog.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0.48265460030165913}"
+                },
+                {
+                  "title": "post",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/post.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "2022-12-02",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"box/2022-12-02.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "2022-12-01",
@@ -126,13 +170,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "box/2022-12-02.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -163,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#n",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "box/2022-12-01.md",
+                "file": "template/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "box/2022-12-01.md",
+                "file": "template/post.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -375,14 +414,15 @@
             }
           },
           {
-            "id": "14df00ee261915fa",
+            "id": "b60d4241c595fe94",
             "type": "leaf",
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "0c9de1c562ddd93e",
@@ -403,7 +443,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "box/2022-12-01.md"
+                "file": "template/post.md"
               }
             }
           }
@@ -413,17 +453,17 @@
     "direction": "horizontal",
     "width": 371.5
   },
-  "active": "e01f3d1a44a31cb9",
+  "active": "4b9b244b327dc449",
   "lastOpenFiles": [
+    "source/_posts/2022-12-01.md",
+    "template/post.md",
+    "node_modules/stylus/Changelog.md",
+    "source/_posts/mini-vue 0 概览.md",
+    "box/2022-12-01.md",
     "source/_posts/Babel 抽象语法树.md",
     "box/2022-12-02.md",
-    "box/2022-12-01.md",
-    "template/post.md",
     "source/_posts/Inteview Question.md",
     "source/Untitled.md",
-    "source/_posts/Babel 流程之始 解析阶段.md",
-    "source/_posts/初识 Babel.md",
-    "source/_posts/两数之和.md",
-    "algorithm/两数之和.md"
+    "source/_posts/Babel 流程之始 解析阶段.md"
   ]
 }
