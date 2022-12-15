@@ -1,5 +1,5 @@
 
 ---
-post
-title: 
+post {{Date}}
+title: {{titile}}
 ---
