@@ -127,27 +127,11 @@
         }
       }
     },
-    "x-vue-admin": {
-      "x-vue-admin": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1668579244730
-        }
-      }
-    },
     "javascript": {
       "javascript": {
         "customDictionary": {
           "count": 5,
           "lastUpdated": 1671165147556
-        }
-      }
-    },
-    "一样学习其他东西！": {
-      "一样学习其他东西！": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668587102396
         }
       }
     },
@@ -482,8 +466,8 @@
     "babel": {
       "babel": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1671181585309
+          "count": 11,
+          "lastUpdated": 1671192540239
         }
       }
     },
@@ -500,6 +484,14 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1671185114438
+        }
+      }
+    },
+    "前端工程化": {
+      "前端工程化": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1671192523763
         }
       }
     }

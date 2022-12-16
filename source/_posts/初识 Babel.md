@@ -1,8 +1,11 @@
 ---
+date: 2022-2-17 3:20:00
 title: 初识 Babel
 tag:
-	- babel
-date: 2022-2-17 3:20:00
+  - babel
+  - 前端工程化
+categories:
+  - babel
 ---
 
 ## Babel 的作用

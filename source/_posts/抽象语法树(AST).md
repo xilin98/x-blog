@@ -3,6 +3,9 @@ title: 抽象语法树(AST)
 date: 2022-2-18 3:20:00
 tag: 
   - babel
+  - 前端工程化
+categories:
+  - babel
 ---
 
 ## javascript 的 AST标准 Estree

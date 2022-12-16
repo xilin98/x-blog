@@ -1,11 +1,16 @@
 ---
 title: Babel 流程之始 parse
 date: 2022-2-17 3:20:00
+tags: 
+  - babel
+  - 前端工程化
+categories:
+  - babel
 ---
 
 ## 转译的开始
 
-本质上，babel 是一个 javascript 转译器 (javascript transpiler)。
+本质上，babel 是一 JavaScriptpt 转译器 (javascript transpiler)。
 为了理解代码第一部就是将它转换成抽象语法树 (Abstract Sytax Tree), 这就是 解析阶段(parse phase)。
 Babel 的解析阶段主要负责将 JavaScript 代码解析成抽象语法树，为后续的转换和生成提供基础。它是 Babel 编译器的第一个阶段，为后续的转换和生成提供了重要的基础。
 

@@ -143,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -283,6 +283,7 @@
       {
         "id": "243f00ab85bfe5f8",
         "type": "tabs",
+        "dimension": 64.19354838709678,
         "children": [
           {
             "id": "48e87668cbff994a",
@@ -376,6 +377,7 @@
       {
         "id": "0c9de1c562ddd93e",
         "type": "tabs",
+        "dimension": 35.80645161290323,
         "children": [
           {
             "id": "3fe573fc731f0fd2",
@@ -402,17 +404,17 @@
     "direction": "horizontal",
     "width": 312.5
   },
-  "active": "e01f3d1a44a31cb9",
+  "active": "48e87668cbff994a",
   "lastOpenFiles": [
-    "template/post.md",
-    "source/_posts/Babel 流程整合.md",
-    "source/_posts/babel 小插件 案例.md",
-    "source/_posts/Babel 生成阶段.md",
     "source/_posts/Balel 转换阶段.md",
-    "source/_posts/初识 Babel.md",
-    "source/_posts/两数之和.md",
     "source/_posts/Inteview Question.md",
     "source/_posts/抽象语法树(AST).md",
-    "source/_posts/Babel 流程之始 解析阶段.md"
+    "source/_posts/Babel 流程之始 解析阶段.md",
+    "source/_posts/初识 Babel.md",
+    "source/_posts/两数之和.md",
+    "source/_posts/heLLo ：）.md",
+    "source/_posts/mini-vue 0 概览.md",
+    "source/_posts/Babel 生成阶段.md",
+    "source/_posts/babel 小插件 案例.md"
   ]
 }
