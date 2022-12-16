@@ -138,8 +138,8 @@
     "javascript": {
       "javascript": {
         "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1670748557314
+          "count": 5,
+          "lastUpdated": 1671165147556
         }
       }
     },
@@ -332,6 +332,78 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1671125013829
+        }
+      }
+    },
+    "中：": {
+      "中：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671160279417
+        }
+      }
+    },
+    "结构如下：": {
+      "结构如下：": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1671160685602
+        }
+      }
+    },
+    "语句：": {
+      "语句：": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1671160663174
+        }
+      }
+    },
+    "FunctionDeclaration": {
+      "FunctionDeclaration": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1671162262341
+        }
+      }
+    },
+    "AST": {
+      "AST": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1671166728461
+        }
+      }
+    },
+    "CallExpression": {
+      "CallExpression": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671164742306
+        }
+      }
+    },
+    "statement": {
+      "statement": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671165310938
+        }
+      }
+    },
+    "declaration": {
+      "declaration": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671165318961
+        }
+      }
+    },
+    "do-while": {
+      "do-while": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671166415824
         }
       }
     }
