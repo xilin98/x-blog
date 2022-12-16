@@ -79,27 +79,11 @@
         }
       }
     },
-    "through": {
-      "through": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1668338302955
-        }
-      }
-    },
     "Object": {
       "Object": {
         "currentVault": {
           "count": 5,
           "lastUpdated": 1668614121716
-        }
-      }
-    },
-    "represent": {
-      "represent": {
-        "currentVault": {
-          "count": 7,
-          "lastUpdated": 1668507291532
         }
       }
     },
@@ -135,27 +119,11 @@
         }
       }
     },
-    "actually": {
-      "actually": {
-        "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1668504634404
-        }
-      }
-    },
     "runtimeArgs": {
       "runtimeArgs": {
         "currentFile": {
           "count": 2,
           "lastUpdated": 1669213783579
-        }
-      }
-    },
-    "@optimze": {
-      "@optimze": {
-        "currentVault": {
-          "count": 5,
-          "lastUpdated": 1668304431518
         }
       }
     },
@@ -167,99 +135,11 @@
         }
       }
     },
-    "isPrime": {
-      "isPrime": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1668173397962
-        }
-      }
-    },
-    "{i": {
-      "{i": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1668174424016
-        }
-      }
-    },
-    "admin": {
-      "admin": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668220063644
-        }
-      }
-    },
-    "finish": {
-      "finish": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668338379748
-        }
-      }
-    },
-    "decision": {
-      "decision": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668493088454
-        }
-      }
-    },
-    "exercise": {
-      "exercise": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668496561271
-        }
-      }
-    },
-    "concentrate": {
-      "concentrate": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1668496827849
-        }
-      }
-    },
-    "unconcious": {
-      "unconcious": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1668496795066
-        }
-      }
-    },
-    "excise": {
-      "excise": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1668503381654
-        }
-      }
-    },
-    "Utilize": {
-      "Utilize": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668503671333
-        }
-      }
-    },
     "javascript": {
       "javascript": {
         "customDictionary": {
           "count": 3,
           "lastUpdated": 1670748557314
-        }
-      }
-    },
-    "enumerable": {
-      "enumerable": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1668507576420
         }
       }
     },
@@ -436,6 +316,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1669863253778
+        }
+      }
+    },
+    "phase": {
+      "phase": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671125003558
+        }
+      }
+    },
+    "解析阶段": {
+      "解析阶段": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1671125013829
         }
       }
     }
