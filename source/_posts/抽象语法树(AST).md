@@ -1,5 +1,5 @@
 ---
-title: Babel 抽象语法树(AST)
+title: 抽象语法树(AST)
 date: 2022-2-18 3:20:00
 tag: 
   - babel
@@ -131,6 +131,8 @@ ClassDeclaration
     └── End
 ```
 ####  导入声明(ImportDeclaration) 
+
+##### named import:用于导入另一个模块中命名的导出
 ```js
 import { sum } from './math';
 ```
@@ -142,7 +144,30 @@ ImportDeclaration
 │   └── Identifier (sum)
 └── StringLiteral ('./math')
 ```
-####  命名导出语句(ExportNamedDeclaration)
+##### default import：用于导入另一个模块中默认的导出
+```js
+import foo from './module.js';
+```
+AST:
+```
+ImportDeclaration
+├── ImportDefaultSpecifier
+│   └── Identifier (foo)
+└── Literal ("./module.js")
+```
+##### namespace import：用于导入另一个模块中的所有导出，并将它们作为一个对象。
+```js
+import * as module from './module.js';
+```
+AST:
+```
+ImportDeclaration
+├── ImportNamespaceSpecifier
+│   └── Identifier (module)
+└── Literal ("./module.js")
+```
+####  导出声明(ExportDeclaration)
+##### 1.  named export：用于将变量、函数、类等命名并导出(ExportNamedDeclaration)
 ```js
 export function add(x, y) {
   return x + y;
@@ -166,7 +191,8 @@ ExportNamedDeclaration
 └── End
 ```
 
-####  默认导出语句(ExportDefaultDeclaration)
+##### default export：用于将变量、函数、类等作为模块的默认导出(ExportDefaultDeclaration)
+
 ```js
 export default function add(x, y) {
   return x + y;
@@ -186,6 +212,17 @@ ExportDefaultDeclaration
         │       ├── Identifier (x)
         │       └── Identifier (y)
         └── End
+```
+
+##### all exports：用于导出模块中的所有导出
+```js
+export * from './module.js';
+```
+
+AST
+```
+ExportAllDeclaration
+└── Literal ("./module.js")
 ```
 ### 表达式语句(ExpressionStatement)
 在 JavaScript 中，表达式语句是指一种语句，其中包含表达式，并且在执行表达式时不会返回任何值。表达式语句通常用于对变量进行赋值、调用函数或执行其他操作。
@@ -266,7 +303,7 @@ ThrowStatement
     └── StringLiteral ('Something went wrong')
 ```
 
-### 控制语句
+### 控制语句(control statement)
 在 JavaScript 中，控制语句是指用于控制程序流程的语句。控制语句可以用于执行不同的操作、跳转到不同的位置或做出决策。
 #### if 语句(IfStatement)
 ```js
@@ -510,7 +547,7 @@ ForOf Statement
 ```
 AST:
 
-## 字面量
+## 字面量(Literal)
 字面量是指直接在程序中写出来的常量值，JavaScript 支持五种基本的字面量：数字、字符串、布尔值、对象和数组。
 
 对应在 JavaScript 抽象语法树（AST）中，这些字面量会用到以下几种节点：
@@ -607,6 +644,59 @@ VariableDeclaration
     └── NumericLiteral (123)
 ```
 
+## 根节点(Program)
+Program 节点是 AST 中的顶级节点，它表示 JavaScript 代码中的整个程序。Program 节点通常包含多个子节点，表示程序中的各个部分，如函数声明、变量声明、表达式等。
+
+## Derective 属性
+表示 JavaScript 代码中的指令语句。指令语句是 JavaScript 代码中的一种特殊语句，它们以 `'use strict'` 开头，用于指定 JavaScript 代码的运行模式。
+
+## 与位置有关的属性
+与位置有关的节点在 AST 中通常会包含有关该节点在源代码中的位置的信息。这些信息可以用于在编译器或代码编辑器中显示错误信息，或者在源代码转换过程中确定节点在源代码中的位置。
+
+例如，在 JavaScript 中，可以使用 `start` 和 `end` 属性来表示节点在源代码中的起始位置和结束位置。这些属性通常是一个对象，包含有关该位置的行号和列号的信息。
+```js
+const a = 1
+```
+
+在 [AST explorer](https://astexplorer.net/) (以babel为例)中：
+
+![[../../quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521.png]]
+##  注释节点
+在 JavaScript 中，注释节点可以使用两种类型之一表示：`Line` 或 `Block`。
+
+-   `Line` 表示单行注释，其中注释以两个斜杠（`//`）开头。
+-   `Block` 表示多行注释，其中注释以一对星号（`/*`）开始，以一对星号（`*/`）结束。
+
+例如，以下代码片段中的注释将生成一个 `Line` 节点：
+```js
+// This is a single-line comment
+let x = 123;
+```
+
+AST:
+```
+Program
+└── VariableDeclaration
+    └── VariableDeclarator
+        ├── Identifier (x)
+        └── NumericLiteral (123)
+```
+以下代码片段中的注释将生成一个 `Block` 节点：
+```js
+/* This is a
+multi-line comment */
+let x = 123;
+```
+AST:
+```
+Program
+├── Block
+│   └── Comment (This is a\nmulti-line comment)
+└── VariableDeclaration
+    └── VariableDeclarator
+        ├── Identifier (x)
+        └── NumericLiteral (123)
+```
 ##  对 AST 进行处理
 
 在生成 AST 以后就可以对 AST 进行处理
@@ -617,6 +707,8 @@ VariableDeclaration
 - 直接执行语句 -> js 解释器
 
 ## 总结
-AST 中的每个节点都对应 javascript 中的一个语法结构。 也就是说将源码转为 AST 以后我们就可以方便地对特定的语法结构进行操作。
+
+在 JavaScript 中，AST（抽象语法树）是一种表示代码的数据结构。它使用节点来表示代码中的各种元素，如变量、常量、表达式、函数声明等。AST 可以用来表示 JavaScript 代码的语法结构，并且可以通过遍历 AST 来分析、修改或生成代码。
+
 ##  链接
 [AST explorer](https://astexplorer.net/) 是探索 AST 的好地方。

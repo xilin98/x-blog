@@ -1,5 +1,5 @@
 ---
-post: {{Date}}
+date: {{Date}}
 title: {{title}}
 tags: 
 categories:

@@ -194,8 +194,8 @@
     "package": {
       "package": {
         "currentVault": {
-          "count": 3,
-          "lastUpdated": 1669862111455
+          "count": 4,
+          "lastUpdated": 1671189347944
         }
       }
     },
@@ -370,8 +370,8 @@
     "AST": {
       "AST": {
         "currentFile": {
-          "count": 5,
-          "lastUpdated": 1671166728461
+          "count": 6,
+          "lastUpdated": 1671168038355
         }
       }
     },
@@ -386,8 +386,8 @@
     "statement": {
       "statement": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1671165310938
+          "count": 2,
+          "lastUpdated": 1671168345495
         }
       }
     },
@@ -404,6 +404,102 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1671166415824
+        }
+      }
+    },
+    "与位置有关的节点": {
+      "与位置有关的节点": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671169159688
+        }
+      }
+    },
+    "注释节点": {
+      "注释节点": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671170731898
+        }
+      }
+    },
+    "节点：": {
+      "节点：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671170795663
+        }
+      }
+    },
+    "表达式。它的签名如下：": {
+      "表达式。它的签名如下：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671173934077
+        }
+      }
+    },
+    "@babel": {
+      "@babel": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1671181817417
+        }
+      }
+    },
+    "type": {
+      "type": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671177485177
+        }
+      }
+    },
+    "AST：": {
+      "AST：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671178530819
+        }
+      }
+    },
+    "2022/10/15": {
+      "2022/10/15": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1671181560353
+        }
+      }
+    },
+    "js": {
+      "js": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671180040869
+        }
+      }
+    },
+    "babel": {
+      "babel": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1671181585309
+        }
+      }
+    },
+    "column": {
+      "column": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671185557880
+        }
+      }
+    },
+    "StringLiteral": {
+      "StringLiteral": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1671185114438
         }
       }
     }
