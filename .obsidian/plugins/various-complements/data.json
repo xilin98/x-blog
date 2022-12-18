@@ -55,14 +55,6 @@
         }
       }
     },
-    "solution": {
-      "solution": {
-        "currentVault": {
-          "count": 14,
-          "lastUpdated": 1668663535747
-        }
-      }
-    },
     "title": {
       "title": {
         "currentVault": {
@@ -76,14 +68,6 @@
         "currentVault": {
           "count": 17,
           "lastUpdated": 1669439204468
-        }
-      }
-    },
-    "Object": {
-      "Object": {
-        "currentVault": {
-          "count": 5,
-          "lastUpdated": 1668614121716
         }
       }
     },
@@ -132,38 +116,6 @@
         "customDictionary": {
           "count": 5,
           "lastUpdated": 1671165147556
-        }
-      }
-    },
-    "ultimately": {
-      "ultimately": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668611357976
-        }
-      }
-    },
-    "view": {
-      "view": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668612564481
-        }
-      }
-    },
-    "Undefined": {
-      "Undefined": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1668668282153
-        }
-      }
-    },
-    "things": {
-      "things": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668688529713
         }
       }
     },
@@ -492,6 +444,10 @@
         "frontMatter": {
           "count": 3,
           "lastUpdated": 1671192523763
+        },
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1671361529245
         }
       }
     }

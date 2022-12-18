@@ -11,22 +11,35 @@
             "id": "8ecf346d00a2ecee",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "babel 解析器 2022-12-18 19.07.37.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"_/assets/babel 解析器 2022-12-18 19.07.37.excalidraw.md\"}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "抽象语法树(AST)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/抽象语法树(AST).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.317991368301165}"
+                },
+                {
+                  "title": "babel 解析器",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel 解析器.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/babel 解析器.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -98,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/babel 解析器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/babel 解析器.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -290,9 +301,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/babel 解析器.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -303,15 +312,15 @@
   },
   "active": "48e87668cbff994a",
   "lastOpenFiles": [
+    "_/assets/babel 解析器 2022-12-18 19.07.37.excalidraw.md",
+    "source/_posts/babel 解析器.md",
+    "source/_posts/抽象语法树(AST).md",
     "source/_posts/两数之和.md",
     "source/_posts/mini-vue 0 概览.md",
     "source/_posts/Balel 转换阶段.md",
     "source/_posts/Inteview Question.md",
-    "source/_posts/抽象语法树(AST).md",
     "source/_posts/Babel 流程之始 解析阶段.md",
     "source/_posts/初识 Babel.md",
-    "source/_posts/heLLo ：）.md",
-    "source/_posts/Babel 生成阶段.md",
-    "source/_posts/babel 小插件 案例.md"
+    "source/_posts/heLLo ：）.md"
   ]
 }
