@@ -13,6 +13,7 @@ vue 3 采用 monorepo 的形式组织代码，所有的模块都在 `packages` �
 包与包之间的依赖关系明确, 依赖关系如下：
 
 ![](../images/quicker_2859eb70-7322-44a9-ad00-aa02bcbe2c18%201.png)
+
 - `@vue/complier-sfc` 是用来解析单文件组件（Single File Component）
 - 编译和运行时分别对应 `runtime` 模块和 `compiler` 模块
   - `runtime-dom` 和 `runtime-core` 解耦

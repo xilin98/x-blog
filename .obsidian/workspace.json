@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ecf346d00a2ecee",
+            "id": "4efab5aad8f686db",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,22 +18,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"source/images/quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "抽象语法树(AST)",
+                  "title": "设计模式初探",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/抽象语法树(AST).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.317991368301165}"
-                },
-                {
-                  "title": "babel 解析器",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel 解析器.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式初探.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":55},\"to\":{\"line\":32,\"ch\":55}},\"scroll\":25.741071156093053}"
                 }
               ]
             },
@@ -288,7 +276,7 @@
             }
           },
           {
-            "id": "a5e8d0ec562278dc",
+            "id": "78d2d25d8529199b",
             "type": "leaf",
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
@@ -296,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "0c9de1c562ddd93e",
@@ -328,17 +316,17 @@
     "direction": "horizontal",
     "width": 312.5
   },
-  "active": "a498151d9a2bea62",
+  "active": "4b9b244b327dc449",
   "lastOpenFiles": [
+    "source/_posts/mini-vue 12 实现 Slot.md",
+    "source/_posts/mini-vue 0 概览.md",
+    "source/_posts/设计模式初探.md",
     "source/images/quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521.png",
     "source/_posts/babel 解析器.md",
     "_/assets/babel 解析器 2022-12-18 19.07.37.excalidraw.md",
     "source/_posts/抽象语法树(AST).md",
     "source/_posts/两数之和.md",
-    "source/_posts/mini-vue 0 概览.md",
     "source/_posts/Balel 转换阶段.md",
-    "source/_posts/Inteview Question.md",
-    "source/_posts/Babel 流程之始 解析阶段.md",
-    "source/_posts/初识 Babel.md"
+    "source/_posts/Inteview Question.md"
   ]
 }
