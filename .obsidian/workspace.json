@@ -11,16 +11,16 @@
             "id": "8ecf346d00a2ecee",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "babel 解析器 2022-12-18 19.07.37.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"_/assets/babel 解析器 2022-12-18 19.07.37.excalidraw.md\"}}",
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "state": "{}",
+                  "title": "quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"source/images/quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521.png\"}}",
                   "eState": "{}"
                 },
                 {
@@ -38,8 +38,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/mini-vue 0 概览.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -111,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/mini-vue 0 概览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/mini-vue 0 概览.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -279,8 +286,17 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "a5e8d0ec562278dc",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "0c9de1c562ddd93e",
@@ -301,7 +317,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/mini-vue 0 概览.md"
+              }
             }
           }
         ]
@@ -310,17 +328,17 @@
     "direction": "horizontal",
     "width": 312.5
   },
-  "active": "48e87668cbff994a",
+  "active": "a498151d9a2bea62",
   "lastOpenFiles": [
-    "_/assets/babel 解析器 2022-12-18 19.07.37.excalidraw.md",
+    "source/images/quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521.png",
     "source/_posts/babel 解析器.md",
+    "_/assets/babel 解析器 2022-12-18 19.07.37.excalidraw.md",
     "source/_posts/抽象语法树(AST).md",
     "source/_posts/两数之和.md",
     "source/_posts/mini-vue 0 概览.md",
     "source/_posts/Balel 转换阶段.md",
     "source/_posts/Inteview Question.md",
     "source/_posts/Babel 流程之始 解析阶段.md",
-    "source/_posts/初识 Babel.md",
-    "source/_posts/heLLo ：）.md"
+    "source/_posts/初识 Babel.md"
   ]
 }

@@ -663,7 +663,7 @@ const a = 1
 
 在 [AST explorer](https://astexplorer.net/) (以babel为例)中：
 
-![[../../quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521.png]]
+![[../images/quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521.png]]
 ##  注释节点
 在 JavaScript 中，注释节点可以使用两种类型之一表示：`Line` 或 `Block`。
 
