@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "140049951bdb5140",
+            "id": "d93fcf45493a09fb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -38,59 +38,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "post",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/post.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":6},\"to\":{\"line\":3,\"ch\":6}}}"
-                },
-                {
-                  "title": "工厂方法模式",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/工厂方法模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/工厂方法模式.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ace1646fe279f6b3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 2,
-              "stack": [
-                {
-                  "title": "抽象工厂模式",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/抽象工厂模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.412371291327722}"
-                },
-                {
-                  "title": "工厂方法模式",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/工厂方法模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":138,\"ch\":70},\"to\":{\"line\":138,\"ch\":70}},\"scroll\":131.84863693484087}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/抽象工厂模式.md",
+                "file": "source/_posts/单例模式.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/抽象工厂模式.md",
+                "file": "source/_posts/单例模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/抽象工厂模式.md",
+                "file": "source/_posts/单例模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -360,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/抽象工厂模式.md"
+                "file": "source/_posts/单例模式.md"
               }
             }
           }
@@ -370,12 +324,12 @@
     "direction": "horizontal",
     "width": 312.5
   },
-  "active": "cefbf1ea71740bd4",
+  "active": "d93fcf45493a09fb",
   "lastOpenFiles": [
+    "source/_posts/设计模式初探.md",
     "source/_posts/工厂方法模式.md",
     "source/_posts/抽象工厂模式.md",
     "template/post.md",
-    "source/_posts/设计模式初探.md",
     "source/_posts/mini-vue 0 概览.md",
     "source/_posts/mini-vue 12 实现 Slot.md",
     "source/images/quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521.png",
