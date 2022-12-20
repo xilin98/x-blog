@@ -28,8 +28,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a12112e75064862f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/前端工程化/monorepo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/设计模式/设计模式初探.md",
+                "file": "source/_posts/前端工程化/monorepo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/设计模式/设计模式初探.md",
+                "file": "source/_posts/前端工程化/monorepo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/设计模式/设计模式初探.md"
+                "file": "source/_posts/前端工程化/monorepo.md"
               }
             }
           }
@@ -301,8 +324,9 @@
     "direction": "horizontal",
     "width": 312.5
   },
-  "active": "ffb00f6f200b428c",
+  "active": "a12112e75064862f",
   "lastOpenFiles": [
+    "source/_posts/设计模式/设计模式初探.md",
     "source/_posts/设计模式/单例模式.md",
     "source/_posts/babel/Balel 转换阶段.md",
     "source/_posts/算法/两数之和.md",
@@ -311,7 +335,6 @@
     "source/_posts/Inteview Question.md",
     "source/_posts/未命名.md",
     "source/_posts/mini-vue/mini-vue 0 概览.md",
-    "source/_posts/设计模式/设计模式初探.md",
     "source/_posts/babel/抽象语法树(AST).md"
   ]
 }
