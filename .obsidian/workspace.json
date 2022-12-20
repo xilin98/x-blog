@@ -22,54 +22,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/设计模式初探.md",
+                "file": "source/_posts/设计模式/设计模式初探.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d93fcf45493a09fb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/单例模式.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47e1c28efbf0d4ef",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/设计模式/设计模式初探.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/设计模式/设计模式初探.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +290,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/设计模式/设计模式初探.md"
+              }
             }
           }
         ]
@@ -337,17 +301,17 @@
     "direction": "horizontal",
     "width": 312.5
   },
-  "active": "47e1c28efbf0d4ef",
+  "active": "ffb00f6f200b428c",
   "lastOpenFiles": [
-    "source/_posts/mini-vue/inner.md",
+    "source/_posts/设计模式/单例模式.md",
+    "source/_posts/babel/Balel 转换阶段.md",
+    "source/_posts/算法/两数之和.md",
+    "source/_posts/算法/走方格的方案数.md",
+    "source/_posts/性能优化/常见的性能优化手段.md",
+    "source/_posts/Inteview Question.md",
     "source/_posts/未命名.md",
-    "source/_posts/单例模式.md",
-    "source/_posts/设计模式初探.md",
-    "source/_posts/工厂方法模式.md",
-    "source/_posts/抽象工厂模式.md",
-    "template/post.md",
-    "source/_posts/mini-vue 0 概览.md",
-    "source/_posts/mini-vue 12 实现 Slot.md",
-    "source/images/quicker_306054b7-0f7e-4c5c-8e3f-01017d0b1521.png"
+    "source/_posts/mini-vue/mini-vue 0 概览.md",
+    "source/_posts/设计模式/设计模式初探.md",
+    "source/_posts/babel/抽象语法树(AST).md"
   ]
 }
