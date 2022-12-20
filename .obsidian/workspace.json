@@ -28,8 +28,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "140049951bdb5140",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "post",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/post.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":6},\"to\":{\"line\":3,\"ch\":6}}}"
+                },
+                {
+                  "title": "工厂方法模式",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/工厂方法模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/工厂方法模式.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/设计模式初探.md",
+                "file": "source/_posts/工厂方法模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/设计模式初探.md",
+                "file": "source/_posts/工厂方法模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/设计模式初探.md"
+                "file": "source/_posts/工厂方法模式.md"
               }
             }
           }
@@ -301,8 +336,10 @@
     "direction": "horizontal",
     "width": 312.5
   },
-  "active": "ffb00f6f200b428c",
+  "active": "140049951bdb5140",
   "lastOpenFiles": [
+    "template/post.md",
+    "source/_posts/工厂方法模式.md",
     "source/_posts/设计模式初探.md",
     "source/_posts/mini-vue 0 概览.md",
     "source/_posts/mini-vue 12 实现 Slot.md",
@@ -310,8 +347,6 @@
     "source/_posts/babel 解析器.md",
     "_/assets/babel 解析器 2022-12-18 19.07.37.excalidraw.md",
     "source/_posts/抽象语法树(AST).md",
-    "source/_posts/两数之和.md",
-    "source/_posts/Balel 转换阶段.md",
-    "source/_posts/Inteview Question.md"
+    "source/_posts/两数之和.md"
   ]
 }
