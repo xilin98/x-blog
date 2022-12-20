@@ -119,14 +119,6 @@
         }
       }
     },
-    "difficult": {
-      "difficult": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1668861818754
-        }
-      }
-    },
     "package": {
       "package": {
         "currentVault": {
@@ -472,6 +464,14 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1671444742264
+        }
+      }
+    },
+    "typescript": {
+      "typescript": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1671503371874
         }
       }
     }
