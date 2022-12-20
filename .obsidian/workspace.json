@@ -67,23 +67,23 @@
             "id": "ace1646fe279f6b3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "抽象工厂模式",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/抽象工厂模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.412371291327722}"
                 },
                 {
                   "title": "工厂方法模式",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/工厂方法模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":140,\"ch\":185},\"to\":{\"line\":140,\"ch\":185}},\"scroll\":136.58006063188824}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":138,\"ch\":70},\"to\":{\"line\":138,\"ch\":70}},\"scroll\":131.84863693484087}"
                 },
                 {
-                  "title": "抽象工厂模式",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/抽象工厂模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":57},\"to\":{\"line\":77,\"ch\":57}},\"scroll\":43.98809287661598}"
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -370,7 +370,7 @@
     "direction": "horizontal",
     "width": 312.5
   },
-  "active": "ace1646fe279f6b3",
+  "active": "cefbf1ea71740bd4",
   "lastOpenFiles": [
     "source/_posts/工厂方法模式.md",
     "source/_posts/抽象工厂模式.md",
