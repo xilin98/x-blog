@@ -38,13 +38,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "monorepo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/前端工程化/monorepo.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":59},\"to\":{\"line\":19,\"ch\":59}},\"scroll\":1.1071428571428572}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/前端工程化/monorepo.md",
+                "file": "source/_posts/性能优化/常见的性能优化手段.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/前端工程化/monorepo.md",
+                "file": "source/_posts/性能优化/常见的性能优化手段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/前端工程化/monorepo.md",
+                "file": "source/_posts/性能优化/常见的性能优化手段.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/前端工程化/monorepo.md"
+                "file": "source/_posts/性能优化/常见的性能优化手段.md"
               }
             }
           }
@@ -326,6 +332,7 @@
   },
   "active": "a12112e75064862f",
   "lastOpenFiles": [
+    "source/_posts/前端工程化/monorepo.md",
     "source/_posts/设计模式/设计模式初探.md",
     "source/_posts/设计模式/单例模式.md",
     "source/_posts/babel/Balel 转换阶段.md",
@@ -334,7 +341,6 @@
     "source/_posts/性能优化/常见的性能优化手段.md",
     "source/_posts/Inteview Question.md",
     "source/_posts/未命名.md",
-    "source/_posts/mini-vue/mini-vue 0 概览.md",
-    "source/_posts/babel/抽象语法树(AST).md"
+    "source/_posts/mini-vue/mini-vue 0 概览.md"
   ]
 }
