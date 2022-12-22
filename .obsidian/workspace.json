@@ -40,6 +40,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "两数之和",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":25.060267857142858}"
+                },
+                {
+                  "title": "设计模式初探",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式/设计模式初探.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":11},\"to\":{\"line\":9,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "走方格的方案数",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/走方格的方案数.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":70.24801781063988}"
+                },
+                {
+                  "title": "两数之和",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":25.060267857142858}"
+                },
+                {
+                  "title": "常见的性能优化手段",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/性能优化/常见的性能优化手段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "设计模式初探",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式/设计模式初探.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -80,15 +110,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/性能优化/常见的性能优化手段.md",
+                "file": "source/_posts/算法/走方格的方案数.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f46cc680f690d05",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/性能优化/常见的性能优化手段.md",
+                "file": "source/_posts/算法/走方格的方案数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/性能优化/常见的性能优化手段.md",
+                "file": "source/_posts/算法/走方格的方案数.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -350,7 +399,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/性能优化/常见的性能优化手段.md"
+                "file": "source/_posts/算法/走方格的方案数.md"
               }
             }
           }
@@ -360,16 +409,31 @@
     "direction": "horizontal",
     "width": 312.5
   },
-  "active": "a12112e75064862f",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "9f46cc680f690d05",
   "lastOpenFiles": [
+    "source/_posts/算法/两数之和.md",
     "source/_posts/设计模式/设计模式初探.md",
+    "source/_posts/算法/走方格的方案数.md",
+    "source/_posts/性能优化/常见的性能优化手段.md",
     "source/_posts/前端工程化/monorepo.md",
     "template/post.md",
-    "source/_posts/性能优化/常见的性能优化手段.md",
     "source/_posts/设计模式/单例模式.md",
     "source/_posts/babel/Balel 转换阶段.md",
-    "source/_posts/算法/两数之和.md",
-    "source/_posts/算法/走方格的方案数.md",
     "source/_posts/Inteview Question.md",
     "source/_posts/未命名.md"
   ]
