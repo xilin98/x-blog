@@ -126,18 +126,30 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Release Notes 1.1.8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.1.8\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "source/_posts/未命名.canvas",
+                "viewState": {
+                  "x": -152,
+                  "y": -430.00367286425285,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/算法/走方格的方案数.md",
+                "file": "source/_posts/设计模式/设计模式初探.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/算法/走方格的方案数.md",
+                "file": "source/_posts/设计模式/设计模式初探.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +308,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "c148e523afc30faf",
@@ -377,7 +390,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "0c9de1c562ddd93e",
@@ -399,7 +413,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/算法/走方格的方案数.md"
+                "file": "source/_posts/设计模式/设计模式初探.md"
               }
             }
           }
@@ -424,17 +438,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9f46cc680f690d05",
+  "active": "4b9b244b327dc449",
   "lastOpenFiles": [
-    "source/_posts/算法/两数之和.md",
+    "source/_posts/未命名.canvas",
     "source/_posts/设计模式/设计模式初探.md",
+    "source/_posts/算法/两数之和.md",
     "source/_posts/算法/走方格的方案数.md",
     "source/_posts/性能优化/常见的性能优化手段.md",
     "source/_posts/前端工程化/monorepo.md",
     "template/post.md",
     "source/_posts/设计模式/单例模式.md",
     "source/_posts/babel/Balel 转换阶段.md",
-    "source/_posts/Inteview Question.md",
-    "source/_posts/未命名.md"
+    "source/_posts/Inteview Question.md"
   ]
 }
