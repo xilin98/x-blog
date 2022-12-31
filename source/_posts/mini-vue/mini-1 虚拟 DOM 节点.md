@@ -26,3 +26,25 @@ const App = {
 ```
 
 条件渲染可以直接通过三元运算符或者条件语句实现：
+```js
+const app = {
+  render(){
+    return condition ? h("div", "foo") : h("div", "bar");
+  }
+}
+```
+
+## 何时直接写 Render function 比模板语法方便
+### 当我们时候 slots 且逻辑较多的时候
+比方说我们需要一个会自动缩进的的元素 `stack`
+
+```js
+const Stack = {
+  render(){
+    const slots = this.$slots.default ? this.$slots.default() : [];
+    return h("div",{class: "stack"}, slots.map(child => {
+      return h("div", {class: `mt-${this.props.size}`}, child)
+    }))
+  }
+}
+```

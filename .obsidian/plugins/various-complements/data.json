@@ -338,6 +338,14 @@
           "lastUpdated": 1672463430102
         }
       }
+    },
+    "condition": {
+      "condition": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672467356567
+        }
+      }
     }
   }
 }
