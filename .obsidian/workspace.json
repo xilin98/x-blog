@@ -20,8 +20,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/算法/方法论.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/算法/方法论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/算法/方法论.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +291,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/算法/方法论.md"
+              }
             }
           }
         ]
