@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "a12112e75064862f",
+            "id": "f9e34ce87667f82e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -40,83 +40,29 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "走方格的方案数",
+                  "title": "mini-vue 12 实现 Slot",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/走方格的方案数.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-vue 12 实现 Slot.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
-                  "title": "两数之和",
+                  "title": "mini-vue 0 概览",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":25.060267857142858}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-vue 0 概览.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "设计模式初探",
+                  "title": "未命名",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式/设计模式初探.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":11},\"to\":{\"line\":9,\"ch\":11}},\"scroll\":0}"
-                },
-                {
-                  "title": "走方格的方案数",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/走方格的方案数.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":70.24801781063988}"
-                },
-                {
-                  "title": "两数之和",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":25.060267857142858}"
-                },
-                {
-                  "title": "常见的性能优化手段",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/性能优化/常见的性能优化手段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "设计模式初探",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式/设计模式初探.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":0},\"to\":{\"line\":77,\"ch\":0}},\"scroll\":68.47489136815376}"
-                },
-                {
-                  "title": "monorepo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/前端工程化/monorepo.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":20}},\"scroll\":19.583680149972675}"
-                },
-                {
-                  "title": "post",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/post.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "monorepo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/前端工程化/monorepo.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":20}},\"scroll\":19.583680149972675}"
-                },
-                {
-                  "title": "常见的性能优化手段",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/性能优化/常见的性能优化手段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "monorepo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/前端工程化/monorepo.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":59},\"to\":{\"line\":19,\"ch\":59}},\"scroll\":1.1071428571428572}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/算法/两数之和.md",
+                "file": "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -193,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/算法/两数之和.md",
+                "file": "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/算法/两数之和.md",
+                "file": "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +333,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/算法/两数之和.md"
+                "file": "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md"
               }
             }
           }
@@ -412,17 +358,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a12112e75064862f",
+  "active": "f9e34ce87667f82e",
   "lastOpenFiles": [
+    "source/_posts/mini-vue/mini-vue 12 实现 Slot.md",
+    "source/_posts/mini-vue/mini-vue 0 概览.md",
+    "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md",
+    "source/_posts/设计模式/设计模式初探.md",
+    "source/_posts/算法/两数之和.md",
     "source/_posts/未命名.canvas",
     "source/_posts/HTML.md",
-    "source/_posts/算法/两数之和.md",
     "source/_posts/算法/走方格的方案数.md",
-    "source/_posts/设计模式/设计模式初探.md",
     "source/_posts/性能优化/常见的性能优化手段.md",
-    "source/_posts/前端工程化/monorepo.md",
-    "template/post.md",
-    "source/_posts/设计模式/单例模式.md",
-    "source/_posts/babel/Balel 转换阶段.md"
+    "source/_posts/前端工程化/monorepo.md"
   ]
 }

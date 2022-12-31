@@ -47,75 +47,11 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "automatically": {
-      "automatically": {
-        "currentVault": {
-          "count": 4,
-          "lastUpdated": 1669213403791
-        }
-      }
-    },
-    "title": {
-      "title": {
-        "currentVault": {
-          "count": 102,
-          "lastUpdated": 1669861088913
-        }
-      }
-    },
-    "function": {
-      "function": {
-        "currentVault": {
-          "count": 17,
-          "lastUpdated": 1669439204468
-        }
-      }
-    },
-    "runtime": {
-      "runtime": {
-        "currentVault": {
-          "count": 6,
-          "lastUpdated": 1669863263955
-        }
-      }
-    },
-    "benifit": {
-      "benifit": {
-        "currentVault": {
-          "count": 3,
-          "lastUpdated": 1669213205523
-        }
-      }
-    },
-    "@import": {
-      "@import": {
-        "currentVault": {
-          "count": 6,
-          "lastUpdated": 1669114614097
-        }
-      }
-    },
-    "modify": {
-      "modify": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1669458339620
-        }
-      }
-    },
-    "runtimeArgs": {
-      "runtimeArgs": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1669213783579
-        }
-      }
-    },
     "javascript": {
       "javascript": {
         "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1671165147556
+          "count": 7,
+          "lastUpdated": 1672464508252
         }
       }
     },
@@ -127,123 +63,11 @@
         }
       }
     },
-    "node_modules": {
-      "node_modules": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1669213126757
-        }
-      }
-    },
-    "special-script": {
-      "special-script": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669213185163
-        }
-      }
-    },
-    "时所进行的操作": {
-      "时所进行的操作": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669215550715
-        }
-      }
-    },
-    "运行脚本的方式：": {
-      "运行脚本的方式：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669218968138
-        }
-      }
-    },
-    "面试": {
-      "面试": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1669277332791
-        }
-      }
-    },
-    "Element-plus": {
-      "Element-plus": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1669346494039
-        }
-      }
-    },
-    "netlify": {
-      "netlify": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1669374310989
-        }
-      }
-    },
-    "阶段（“目标阶段”：事件到达元素）没有被单独处理：捕获阶段和冒泡阶段的处理程序都在该阶段被触发。": {
-      "阶段（“目标阶段”：事件到达元素）没有被单独处理：捕获阶段和冒泡阶段的处理程序都在该阶段被触发。": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1669441300112
-        }
-      }
-    },
-    "@practice": {
-      "@practice": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1669445904543
-        }
-      }
-    },
-    "native": {
-      "native": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1669455925306
-        }
-      }
-    },
-    "up-to-date": {
-      "up-to-date": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1669458486485
-        }
-      }
-    },
-    "general": {
-      "general": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1669788268890
-        }
-      }
-    },
-    "funtion": {
-      "funtion": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1669788463332
-        }
-      }
-    },
     "monorepo": {
       "monorepo": {
         "currentVault": {
           "count": 5,
           "lastUpdated": 1671594572421
-        }
-      }
-    },
-    "模块": {
-      "模块": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1669863253778
         }
       }
     },
@@ -446,8 +270,8 @@
     "mini-vue": {
       "mini-vue": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1671435728890
+          "count": 3,
+          "lastUpdated": 1672463222014
         }
       }
     },
@@ -496,6 +320,22 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1671540704035
+        }
+      }
+    },
+    "Reactivity": {
+      "Reactivity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672460772520
+        }
+      }
+    },
+    "canvas": {
+      "canvas": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672463430102
         }
       }
     }
