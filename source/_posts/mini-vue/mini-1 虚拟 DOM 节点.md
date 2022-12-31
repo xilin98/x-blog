@@ -48,3 +48,6 @@ const Stack = {
   }
 }
 ```
+
+## Block 的优化点
+block 只会关注可能变化的点！
