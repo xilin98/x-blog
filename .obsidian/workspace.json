@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d8370bcfe735e89",
+        "id": "862c5d55959d4028",
         "type": "tabs",
         "children": [
           {
-            "id": "ffb00f6f200b428c",
+            "id": "ab05fb975d5d562a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,57 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/设计模式/设计模式初探.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9e34ce87667f82e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "mini-vue 12 实现 Slot",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-vue 12 实现 Slot.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "mini-vue 0 概览",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-vue 0 概览.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "未命名",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -332,9 +284,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -358,17 +308,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f9e34ce87667f82e",
+  "active": "ab05fb975d5d562a",
   "lastOpenFiles": [
-    "source/_posts/mini-vue/mini-vue 12 实现 Slot.md",
-    "source/_posts/mini-vue/mini-vue 0 概览.md",
-    "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md",
-    "source/_posts/设计模式/设计模式初探.md",
-    "source/_posts/算法/两数之和.md",
-    "source/_posts/未命名.canvas",
-    "source/_posts/HTML.md",
     "source/_posts/算法/走方格的方案数.md",
-    "source/_posts/性能优化/常见的性能优化手段.md",
-    "source/_posts/前端工程化/monorepo.md"
+    "source/_posts/算法/迷宫问题.md",
+    "source/_posts/算法/各种排序算法.md",
+    "source/_posts/算法/算法题中的常用方法.md",
+    "source/_posts/设计模式/设计模式初探.md",
+    "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md",
+    "source/_posts/mini-vue/VIM.md",
+    "source/_posts/算法/密码截取.md",
+    "source/_posts/算法/放苹果.md",
+    "source/_posts/设计模式/单例模式.md"
   ]
 }
