@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab05fb975d5d562a",
+            "id": "c0d8a738cd2558ad",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/算法/方法论.md",
+                "file": "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/算法/方法论.md",
+                "file": "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/算法/方法论.md",
+                "file": "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/算法/方法论.md"
+                "file": "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md"
               }
             }
           }
@@ -317,8 +317,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ab05fb975d5d562a",
+  "active": "c0d8a738cd2558ad",
   "lastOpenFiles": [
+    "source/_posts/算法/方法论.md",
+    "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
     "source/_posts/算法/走方格的方案数.md",
     "source/_posts/算法/迷宫问题.md",
     "source/_posts/算法/各种排序算法.md",
@@ -326,8 +328,6 @@
     "source/_posts/设计模式/设计模式初探.md",
     "source/_posts/mini-vue/mini-1 虚拟 DOM 节点.md",
     "source/_posts/mini-vue/VIM.md",
-    "source/_posts/算法/密码截取.md",
-    "source/_posts/算法/放苹果.md",
-    "source/_posts/设计模式/单例模式.md"
+    "source/_posts/算法/密码截取.md"
   ]
 }
