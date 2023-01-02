@@ -1,8 +1,8 @@
 {
   "baseFontSize": 14,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "",
   "interfaceFontFamily": "Fira Code,Source Han Serif SC VF",
   "textFontFamily": "Fira Code,Source Han Serif SC VF",
   "monospaceFontFamily": "Fira Code",
