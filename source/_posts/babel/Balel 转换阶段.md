@@ -9,7 +9,7 @@ categories:
 
 在将源码转换为 AST 之后下一步就是对 AST 进行操作。 Babel 也为我们提供了对应的 api 让我们可以方便地对其进行遍历和修改.
 
-##  `@babel/travase`
+## `@babel/travase`
 Babel Traverse 是 Babel 库的一个模块，用于遍历和修改 JavaScript 代码的抽象语法树 (AST)。
 
 使用 Babel Traverse 可以方便地对 AST 进行操作，例如查找、修改、删除指定的节点。
@@ -158,7 +158,7 @@ traverse(ast, visitor);
 ```
 在这个示例中，访问器对象中的 `exit` 函数和 `enter` 函数会在遍历过程中被调用，分别在遍历标识符节点之前和之后执行。
 
-##  `@babel/types`
+## `@babel/types`
 
 `@babel/types` 是一个 JavaScript 库，用于操作和生成 JavaScript 的抽象语法树（AST）。它提供了一组函数，可以用于创建、修改和验证 AST 节点。
 
