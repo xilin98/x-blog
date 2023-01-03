@@ -27,10 +27,13 @@
 /* hight-light color */
 mark {
   background-color: #57a773;
-  color: white;
 }
 
 /* cm active */
 .cm-active {
   width: 100%;
+}
+
+.cm-highlight {
+  background-color: #57a77346 !important;
 }

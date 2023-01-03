@@ -16,13 +16,103 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "两数之和",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":36},\"to\":{\"line\":72,\"ch\":36}},\"scroll\":106.84325390770321}"
+                },
+                {
+                  "title": "设计模式初探",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式/设计模式初探.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":77},\"to\":{\"line\":10,\"ch\":77}},\"scroll\":33.448412214006694}"
+                },
+                {
+                  "title": "monorepo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/前端工程化/monorepo.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":20},\"to\":{\"line\":23,\"ch\":20}},\"scroll\":12.905481931662205}"
+                },
+                {
+                  "title": "编程小技巧（little trick）- 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/编程小技巧/编程小技巧（little trick）- 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":43.666666666666664}"
+                },
+                {
+                  "title": "draft",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"scaffolds/draft.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "编程小技巧（little trick）- 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/编程小技巧/编程小技巧（little trick）- 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":13},\"to\":{\"line\":18,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "post",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/post.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":3},\"to\":{\"line\":5,\"ch\":3}},\"scroll\":0}"
+                },
+                {
+                  "title": "抽象语法树(AST)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/抽象语法树(AST).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":112,\"ch\":22},\"to\":{\"line\":112,\"ch\":22}},\"scroll\":93.94500991925091}"
+                },
+                {
+                  "title": "babel 小插件 案例",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/babel 小插件 案例.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Babel 流程整合",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/Babel 流程整合.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Babel 生成阶段",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/Babel 生成阶段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Balel 转换阶段",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/Balel 转换阶段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":18},\"to\":{\"line\":2,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Babel 流程之始 解析阶段",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/Babel 流程之始 解析阶段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "初识 Babel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/初识 Babel.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "深度优先遍历(DFS)和广度优先遍历(BFS)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
+                "file": "template/post.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
+                "file": "template/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
+                "file": "template/post.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +382,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md"
+                "file": "template/post.md"
               }
             }
           }
@@ -317,17 +407,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c0d8a738cd2558ad",
+  "active": "48e87668cbff994a",
   "lastOpenFiles": [
-    "source/_posts/算法/时间复杂度和空间复杂度.md",
-    "source/_posts/babel/Balel 转换阶段.md",
-    "source/_posts/babel/Babel 流程之始 解析阶段.md",
-    "source/_posts/babel/初识 Babel.md",
-    "source/_posts/性能优化/常见的性能优化手段.md",
-    "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
-    "source/_posts/算法/算法题中的常用方法.md",
-    "source/_posts/算法/方法论.md",
-    "source/_posts/算法/各种排序算法.md",
-    "source/_posts/算法/迷宫问题.md"
+    "source/_posts/算法/两数之和.md",
+    "source/_posts/设计模式/设计模式初探.md",
+    "source/_posts/前端工程化/monorepo.md",
+    "source/_posts/编程小技巧/编程小技巧（little trick）- 1.md",
+    "scaffolds/draft.md",
+    "template/post.md",
+    "source/_posts/babel/抽象语法树(AST).md",
+    "source/_posts/babel/babel 小插件 案例.md",
+    "source/_posts/babel/Babel 流程整合.md",
+    "source/_posts/babel/Babel 生成阶段.md"
   ]
 }
