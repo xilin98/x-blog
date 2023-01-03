@@ -1,3 +1,12 @@
+---
+date:  2023-01-03
+title: 深度优先遍历(DFS)和广度优先遍历(BFS)
+tags: 
+  - algorithm
+categories:
+  - algorithm
+---
+
 深度优先遍历(Depth-First Search, DFS)是按照树的深度遍历树的节点，优先遍历节点的子树。
 
 广度优先遍历(Breadth-First Search, BFS)是按照树的宽度遍历树的节点，优先遍历节点的同层节点。

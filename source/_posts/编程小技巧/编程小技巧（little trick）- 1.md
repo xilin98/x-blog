@@ -1,3 +1,12 @@
+---
+date:  2023-01-03
+title: 编程小技巧（little trick）
+tags: 
+  - trick
+categories:
+  - 编程小技巧
+---
+
 q: 将未知长度的字符串分成长度为 K 的 n 段，如果字符串不够则补 '0'
 a: 直接先补 K 个 '0' 然后开始截取
 
