@@ -394,6 +394,22 @@
           "lastUpdated": 1672753116419
         }
       }
+    },
+    "{number": {
+      "{number": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1672797257486
+        }
+      }
+    },
+    "@param": {
+      "@param": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672797240838
+        }
+      }
     }
   }
 }
