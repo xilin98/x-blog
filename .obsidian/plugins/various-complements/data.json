@@ -318,8 +318,8 @@
     "algorithm": {
       "algorithm": {
         "frontMatter": {
-          "count": 16,
-          "lastUpdated": 1672706224111
+          "count": 19,
+          "lastUpdated": 1672753377350
         }
       }
     },
@@ -384,6 +384,14 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1672749920685
+        }
+      }
+    },
+    "leetcode": {
+      "leetcode": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1672753116419
         }
       }
     }

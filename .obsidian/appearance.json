@@ -2,7 +2,7 @@
   "baseFontSize": 14,
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "GitHub theme",
   "interfaceFontFamily": "Fira Code,Source Han Serif SC VF",
   "textFontFamily": "Fira Code,Source Han Serif SC VF",
   "monospaceFontFamily": "Fira Code",

@@ -118,8 +118,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e4c6e2fbb0d7b98",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "两数之和",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":135,\"ch\":112},\"to\":{\"line\":135,\"ch\":112}},\"scroll\":0}"
+                },
+                {
+                  "title": "四数之和",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/四数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":102},\"to\":{\"line\":12,\"ch\":109}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/算法/四数之和.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/post.md",
+                "file": "source/_posts/算法/四数之和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/post.md",
+                "file": "source/_posts/算法/四数之和.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -278,8 +313,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "c148e523afc30faf",
@@ -382,7 +416,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/post.md"
+                "file": "source/_posts/算法/四数之和.md"
               }
             }
           }
@@ -407,17 +441,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48e87668cbff994a",
+  "active": "0e4c6e2fbb0d7b98",
   "lastOpenFiles": [
     "source/_posts/算法/两数之和.md",
+    "source/_posts/算法/四数之和.md",
+    "template/post.md",
     "source/_posts/设计模式/设计模式初探.md",
     "source/_posts/前端工程化/monorepo.md",
     "source/_posts/编程小技巧/编程小技巧（little trick）- 1.md",
     "scaffolds/draft.md",
-    "template/post.md",
     "source/_posts/babel/抽象语法树(AST).md",
     "source/_posts/babel/babel 小插件 案例.md",
-    "source/_posts/babel/Babel 流程整合.md",
-    "source/_posts/babel/Babel 生成阶段.md"
+    "source/_posts/babel/Babel 流程整合.md"
   ]
 }
