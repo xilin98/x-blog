@@ -158,9 +158,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c26c0f75289b1110",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/算法/去重方案.md",
+                "file": "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/算法/去重方案.md",
+                "file": "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -422,7 +444,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/算法/去重方案.md"
+                "file": "source/_posts/概念和常识/SDK 和 API 有什么区别.md"
               }
             }
           }
@@ -447,8 +469,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "80cdbf92dbe1ce55",
+  "active": "c26c0f75289b1110",
   "lastOpenFiles": [
+    "source/_posts/未命名.md",
+    "source/_posts/算法/去重方案.md",
     "source/_posts/算法/四数之和.md",
     "source/_posts/算法/时间复杂度和空间复杂度.md",
     "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
@@ -456,8 +480,6 @@
     "source/_posts/算法/各种排序算法.md",
     "source/_posts/算法/迷宫问题.md",
     "source/_posts/算法/放苹果.md",
-    "source/_posts/算法/密码截取.md",
-    "source/_posts/算法/走方格的方案数.md",
-    "source/_posts/算法/两数之和.md"
+    "source/_posts/算法/密码截取.md"
   ]
 }
