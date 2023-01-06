@@ -8,73 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad6a3dcaa3376dc6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77607a48b269d574",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ce9a8bdc1e9c550",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/经验/常见的低级错误.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "446020d6cb214ab0",
+            "id": "2607fc8dd5f4e1c7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -84,25 +18,30 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "踩坑记录",
+                  "title": "常见的低级错误",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/踩坑记录.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/常见的低级错误.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":9},\"to\":{\"line\":14,\"ch\":9}},\"scroll\":8}"
+                },
+                {
+                  "title": "HTTP 和 HTTPS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/计算机网络/HTTP 和 HTTPS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/经验/常见的低级错误.md",
+                "file": "source/_posts/经验/踩坑记录.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/经验/常见的低级错误.md",
+                "file": "source/_posts/经验/踩坑记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/经验/常见的低级错误.md",
+                "file": "source/_posts/经验/踩坑记录.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "c148e523afc30faf",
@@ -364,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/经验/常见的低级错误.md"
+                "file": "source/_posts/经验/踩坑记录.md"
               }
             }
           }
@@ -389,17 +329,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "446020d6cb214ab0",
+  "active": "2607fc8dd5f4e1c7",
   "lastOpenFiles": [
+    "source/_posts/设计模式/设计模式初探.md",
     "source/_posts/经验/踩坑记录.md",
     "source/_posts/经验/常见的低级错误.md",
+    "source/_posts/计算机网络/HTTP 和 HTTPS.md",
     "source/_posts/未命名.md",
     "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
     "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
     "source/_posts/算法/四数之和.md",
     "source/_posts/算法/去重方案.md",
-    "source/_posts/算法/时间复杂度和空间复杂度.md",
-    "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
-    "source/_posts/算法/方法论.md"
+    "source/_posts/算法/时间复杂度和空间复杂度.md"
   ]
 }
