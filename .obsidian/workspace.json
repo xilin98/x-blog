@@ -8,158 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e4c6e2fbb0d7b98",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "时间复杂度和空间复杂度",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/时间复杂度和空间复杂度.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":1}"
-                },
-                {
-                  "title": "深度优先遍历(DFS)和广度优先遍历(BFS)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}}}"
-                },
-                {
-                  "title": "方法论",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/方法论.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":6},\"to\":{\"line\":8,\"ch\":6}}}"
-                },
-                {
-                  "title": "各种排序算法",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/各种排序算法.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "迷宫问题",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/迷宫问题.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":5},\"to\":{\"line\":10,\"ch\":5}}}"
-                },
-                {
-                  "title": "放苹果",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/放苹果.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":3}},\"scroll\":0}"
-                },
-                {
-                  "title": "密码截取",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/密码截取.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "走方格的方案数",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/走方格的方案数.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":7},\"to\":{\"line\":2,\"ch\":7}}}"
-                },
-                {
-                  "title": "两数之和",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":135,\"ch\":112},\"to\":{\"line\":135,\"ch\":112}},\"scroll\":0}"
-                },
-                {
-                  "title": "单例模式",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式/单例模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":2}},\"scroll\":1}"
-                },
-                {
-                  "title": "抽象工厂模式",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式/抽象工厂模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":2}}}"
-                },
-                {
-                  "title": "工厂方法模式",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式/工厂方法模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "设计模式初探",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式/设计模式初探.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":77},\"to\":{\"line\":10,\"ch\":77}},\"scroll\":0}"
-                },
-                {
-                  "title": "monorepo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/前端工程化/monorepo.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":20},\"to\":{\"line\":23,\"ch\":20}},\"scroll\":0}"
-                },
-                {
-                  "title": "编程小技巧（little trick）- 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/编程小技巧/编程小技巧（little trick）- 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "四数之和",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/四数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":12.483465588282025}"
-                },
-                {
-                  "title": "两数之和",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":135,\"ch\":112},\"to\":{\"line\":135,\"ch\":112}},\"scroll\":0}"
-                },
-                {
-                  "title": "四数之和",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/四数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":102},\"to\":{\"line\":12,\"ch\":109}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/算法/四数之和.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80cdbf92dbe1ce55",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/算法/去重方案.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c26c0f75289b1110",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -181,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -471,15 +318,15 @@
   },
   "active": "c26c0f75289b1110",
   "lastOpenFiles": [
-    "source/_posts/未命名.md",
-    "source/_posts/算法/去重方案.md",
     "source/_posts/算法/四数之和.md",
+    "source/_posts/算法/去重方案.md",
+    "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
+    "source/_posts/未命名.md",
     "source/_posts/算法/时间复杂度和空间复杂度.md",
     "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
     "source/_posts/算法/方法论.md",
     "source/_posts/算法/各种排序算法.md",
     "source/_posts/算法/迷宫问题.md",
-    "source/_posts/算法/放苹果.md",
-    "source/_posts/算法/密码截取.md"
+    "source/_posts/算法/放苹果.md"
   ]
 }
