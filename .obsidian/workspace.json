@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "862c5d55959d4028",
+        "id": "5278368cc9ade178",
         "type": "tabs",
         "children": [
           {
-            "id": "c26c0f75289b1110",
+            "id": "ad6a3dcaa3376dc6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -28,8 +28,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77607a48b269d574",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/概念和常识/SDK 和 API 有什么区别.md"
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md"
               }
             }
           }
@@ -316,11 +339,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c26c0f75289b1110",
+  "active": "77607a48b269d574",
   "lastOpenFiles": [
+    "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
     "source/_posts/算法/四数之和.md",
     "source/_posts/算法/去重方案.md",
-    "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
     "source/_posts/未命名.md",
     "source/_posts/算法/时间复杂度和空间复杂度.md",
     "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
