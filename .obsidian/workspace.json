@@ -50,9 +50,59 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ce9a8bdc1e9c550",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/经验/常见的低级错误.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "446020d6cb214ab0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "踩坑记录",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/踩坑记录.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/经验/常见的低级错误.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+                "file": "source/_posts/经验/常见的低级错误.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+                "file": "source/_posts/经验/常见的低级错误.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md"
+                "file": "source/_posts/经验/常见的低级错误.md"
               }
             }
           }
@@ -339,17 +389,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "77607a48b269d574",
+  "active": "446020d6cb214ab0",
   "lastOpenFiles": [
+    "source/_posts/经验/踩坑记录.md",
+    "source/_posts/经验/常见的低级错误.md",
+    "source/_posts/未命名.md",
+    "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
     "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
     "source/_posts/算法/四数之和.md",
     "source/_posts/算法/去重方案.md",
-    "source/_posts/未命名.md",
     "source/_posts/算法/时间复杂度和空间复杂度.md",
     "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
-    "source/_posts/算法/方法论.md",
-    "source/_posts/算法/各种排序算法.md",
-    "source/_posts/算法/迷宫问题.md",
-    "source/_posts/算法/放苹果.md"
+    "source/_posts/算法/方法论.md"
   ]
 }
