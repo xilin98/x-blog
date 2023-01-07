@@ -4,6 +4,7 @@ title: monorepo
 tags: 
 categories:
 ---
+
 ## 什么是 monorepo
 Monorepo 是一种版本控制和软件开发方式，其中所有项目都存储在同一个代码仓库中。这意味着，所有的项目都共享相同的版本控制系统（例如 Git），并且代码、文档和资源都存储在同一个位置。
 

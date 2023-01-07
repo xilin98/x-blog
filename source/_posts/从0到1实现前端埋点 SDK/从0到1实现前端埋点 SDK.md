@@ -19,7 +19,14 @@ categories:
 4.  使用工具来可视化和分析埋点数据。这可能包括使用网络分析工具、数据可视化工具等来帮助您理解用户的行为模式。
 
 ## 技术选型
+
 ts + rollup
 - ts 可以提供更好的代码提示 
 - rollup 配置比较干净和简洁，相比较 webpack 更适合开发工具类的库或框架，比方说 vue3 就是使用 rollup 打包的。
+
+下面是 Rollup 和 Webpack 的一些主要区别：
+-   Rollup 是一个模块打包器，而 Webpack 是一个模块打包工具。这意味着 Webpack 支持打包更多类型的文件，如图像和字体，以及更多的加载器（loaders）。
+-   Rollup 具有更快的打包速度，因为它是专注于打包 JavaScript 模块的。Webpack 打包速度可能较慢，因为它可能需要处理更多类型的文件。
+-   Rollup 使用树摇晃（tree-shaking）机制来删除未使用的代码。Webpack 也支持树摇晃，但需要使用 UglifyJS 插件。
+-   Rollup 具有较少的配置选项，因此它可能更容易使用。Webpack 具有更多的配置选项，但也提供了更多的灵活性。
 

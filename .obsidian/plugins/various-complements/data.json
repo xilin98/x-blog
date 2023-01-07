@@ -50,8 +50,8 @@
     "javascript": {
       "javascript": {
         "customDictionary": {
-          "count": 7,
-          "lastUpdated": 1672464508252
+          "count": 8,
+          "lastUpdated": 1673058891250
         }
       }
     },
@@ -294,8 +294,8 @@
     "typescript": {
       "typescript": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1671503371874
+          "count": 2,
+          "lastUpdated": 1673059807999
         }
       }
     },
@@ -416,6 +416,38 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1672994759049
+        }
+      }
+    },
+    "undefined": {
+      "undefined": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673059616626
+        }
+      }
+    },
+    "res": {
+      "res": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673059303594
+        }
+      }
+    },
+    "nestObj": {
+      "nestObj": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673059361973
+        }
+      }
+    },
+    "解决方案：": {
+      "解决方案：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673059733276
         }
       }
     }
