@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5e51f0a04c113e9",
+        "id": "948307f78319fb41",
         "type": "tabs",
         "children": [
           {
-            "id": "5afaf2f9d655c1d1",
+            "id": "506ea2c38c1551b0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,11 +20,45 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b490c9b7a5b72cb3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "javaScript 基础",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/javaScript 基础.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "c148e523afc30faf",
@@ -283,7 +320,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md"
+              }
             }
           }
         ]
@@ -307,17 +346,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5afaf2f9d655c1d1",
+  "active": "b490c9b7a5b72cb3",
   "lastOpenFiles": [
+    "source/_posts/javaScript 基础.md",
     "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+    "source/_posts/概念和常识/命令行相关.md",
+    "source/_posts/概念和常识/常用的 npm 命令及 flag.md",
+    "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
+    "source/_posts/编程小技巧/编程小技巧（little trick）- 1.md",
     "source/_posts/算法/岛屿数量.md",
-    "source/_posts/未命名.md",
     "source/_posts/经验/常见的低级错误.md",
     "box/2022-12-02.md",
-    "box/2022-12-01.md",
-    "node_modules/stylus/Readme.md",
-    "source/_posts/经验/插件等工具的踩坑记录.md",
-    "source/_posts/经验/踩坑记录.md",
-    "source/_posts/算法/密码截取.md"
+    "box/2022-12-01.md"
   ]
 }

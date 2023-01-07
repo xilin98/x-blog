@@ -30,3 +30,75 @@ ts + rollup
 -   Rollup 使用树摇晃（tree-shaking）机制来删除未使用的代码。Webpack 也支持树摇晃，但需要使用 UglifyJS 插件。
 -   Rollup 具有较少的配置选项，因此它可能更容易使用。Webpack 具有更多的配置选项，但也提供了更多的灵活性。
 
+## 项目结构
+
+```
+.
+├── LICENSE
+├── README.md
+├── package.json
+└── src
+    ├── core
+    ├── types
+    └── utils
+```
+
+## 安装相关依赖
+
+```bash
+npm install rollup -D
+npm install rollup-plugin-dts -D
+npm install rollup-plugin-typescript2 -D
+npm install typescript -D
+```
+- rollup-plugin-dts 是一个 Rollup 插件，用于将 TypeScript 声明文件转换为 JavaScript 代码，并生成相应的 `*.d.ts` 文件。这个插件可以帮助你在使用 TypeScript 编写的 JavaScript 库的时候更方便地生成声明文件。
+
+## 配置 rollup 
+📄 rollup.config.js
+```js
+import ts from "rollup-plugin-typescript2"
+import path from "path"
+import dts from "rollup-plugin-dts"
+export default [
+  {
+    //入口文件 相当于 webpack 里的 entry 选项
+    input: "./src/core/index.ts",
+    output: [
+      //打包esModule
+      {
+        file: path.resolve(__dirname, "./dist/index.esm.js"),
+        format: "es",
+      },
+      //打包common js
+      {
+        file: path.resolve(__dirname, "./dist/index.cjs.js"),
+        format: "cjs",
+      },
+      //打包 AMD CMD UMD
+      {
+        input: "./src/core/index.ts",
+        file: path.resolve(__dirname, "./dist/index.js"),
+        format: "umd",
+        name: "tracker",
+      },
+    ],
+    //配置ts
+    plugins: [ts()],
+  },
+  {
+    //打包声明文件
+    input: "./src/core/index.ts",
+    output: {
+      file: path.resolve(__dirname, "./dist/index.d.ts"),
+      format: "es",
+    },
+    plugins: [dts()],
+  },
+]
+```
+
+## 配置一下 npm script
+
+加上打包命令 `build`: `rollup -c`
+
+

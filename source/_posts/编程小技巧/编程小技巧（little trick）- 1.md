@@ -59,5 +59,7 @@ a:
 
 q: 当用二进制补码(two's compelement)表示负数是怎样的
 a:
+
 **Flip the bits and add one** 
 Example :  +7 =  0b 0000 0111, -7 =  0b 1111 1001
+
