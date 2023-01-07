@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "踩坑记录",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/踩坑记录.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
                   "title": "常见的低级错误",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/常见的低级错误.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -34,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/经验/踩坑记录.md",
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/经验/踩坑记录.md",
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/经验/踩坑记录.md",
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/经验/踩坑记录.md"
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md"
               }
             }
           }
@@ -331,8 +337,8 @@
   },
   "active": "2607fc8dd5f4e1c7",
   "lastOpenFiles": [
-    "source/_posts/设计模式/设计模式初探.md",
     "source/_posts/经验/踩坑记录.md",
+    "source/_posts/设计模式/设计模式初探.md",
     "source/_posts/经验/常见的低级错误.md",
     "source/_posts/计算机网络/HTTP 和 HTTPS.md",
     "source/_posts/未命名.md",
