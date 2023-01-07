@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5278368cc9ade178",
+        "id": "a5e51f0a04c113e9",
         "type": "tabs",
         "children": [
           {
-            "id": "2607fc8dd5f4e1c7",
+            "id": "5afaf2f9d655c1d1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,173 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "各种排序算法",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/各种排序算法.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":22.324404761904763}"
-                },
-                {
-                  "title": "迷宫问题",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/迷宫问题.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "放苹果",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/放苹果.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "密码截取",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/密码截取.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":14},\"to\":{\"line\":41,\"ch\":0}},\"scroll\":42.6874996366955}"
-                },
-                {
-                  "title": "走方格的方案数",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/走方格的方案数.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":5},\"to\":{\"line\":12,\"ch\":5}},\"scroll\":0}"
-                },
-                {
-                  "title": "两数之和",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/算法/两数之和.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":0},\"to\":{\"line\":84,\"ch\":0}},\"scroll\":78.14059157598587}"
-                },
-                {
-                  "title": "单例模式",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/设计模式/单例模式.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":112,\"ch\":4},\"to\":{\"line\":112,\"ch\":4}},\"scroll\":106.04563467843192}"
-                },
-                {
-                  "title": "monorepo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/前端工程化/monorepo.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "SDK 和 API 有什么区别",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/SDK 和 API 有什么区别.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":54}}}"
-                },
-                {
-                  "title": "从0到1实现前端埋点 SDK",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "编程小技巧（little trick）- 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/编程小技巧/编程小技巧（little trick）- 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":30},\"to\":{\"line\":61,\"ch\":30}},\"scroll\":0}"
-                },
-                {
-                  "title": "monorepo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/前端工程化/monorepo.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "编程小技巧（little trick）- 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/编程小技巧/编程小技巧（little trick）- 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":15},\"to\":{\"line\":38,\"ch\":15}},\"scroll\":53.31745837983631}"
-                },
-                {
-                  "title": "常见的性能优化手段",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/性能优化/常见的性能优化手段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "常见的低级错误",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/常见的低级错误.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":22.675753067180658}"
-                },
-                {
-                  "title": "常见的性能优化手段",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/性能优化/常见的性能优化手段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "编程小技巧（little trick）- 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/编程小技巧/编程小技巧（little trick）- 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":11},\"to\":{\"line\":12,\"ch\":11}},\"scroll\":48.970238095238095}"
-                },
-                {
-                  "title": "常见的低级错误",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/常见的低级错误.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":0},\"to\":{\"line\":51,\"ch\":0}},\"scroll\":22.877256128269675}"
-                },
-                {
-                  "title": "踩坑记录",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/踩坑记录.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":18.21230152675084}"
-                },
-                {
-                  "title": "常见的低级错误",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/常见的低级错误.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}},\"scroll\":0}"
-                },
-                {
-                  "title": "踩坑记录",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/踩坑记录.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "常见的低级错误",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/常见的低级错误.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":9},\"to\":{\"line\":14,\"ch\":9}},\"scroll\":8}"
-                },
-                {
-                  "title": "从0到1实现前端埋点 SDK",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":17.85349724502435}"
-                },
-                {
-                  "title": "踩坑记录",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/踩坑记录.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "常见的低级错误",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/常见的低级错误.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":9},\"to\":{\"line\":14,\"ch\":9}},\"scroll\":8}"
-                },
-                {
-                  "title": "HTTP 和 HTTPS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/计算机网络/HTTP 和 HTTPS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/经验/踩坑记录.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -213,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/经验/踩坑记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/经验/踩坑记录.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -344,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "c148e523afc30faf",
@@ -447,9 +283,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/经验/踩坑记录.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -473,17 +307,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3fe573fc731f0fd2",
+  "active": "5afaf2f9d655c1d1",
   "lastOpenFiles": [
-    "source/_posts/算法/各种排序算法.md",
-    "source/_posts/算法/迷宫问题.md",
-    "source/_posts/算法/放苹果.md",
-    "source/_posts/算法/密码截取.md",
-    "source/_posts/算法/走方格的方案数.md",
-    "source/_posts/算法/两数之和.md",
-    "source/_posts/设计模式/单例模式.md",
-    "source/_posts/前端工程化/monorepo.md",
-    "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
-    "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md"
+    "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+    "source/_posts/算法/岛屿数量.md",
+    "source/_posts/未命名.md",
+    "source/_posts/经验/常见的低级错误.md",
+    "box/2022-12-02.md",
+    "box/2022-12-01.md",
+    "node_modules/stylus/Readme.md",
+    "source/_posts/经验/插件等工具的踩坑记录.md",
+    "source/_posts/经验/踩坑记录.md",
+    "source/_posts/算法/密码截取.md"
   ]
 }

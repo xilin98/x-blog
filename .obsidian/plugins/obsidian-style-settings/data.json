@@ -50,7 +50,6 @@
   "blue-topaz-theme@@nowrap-outline": false,
   "blue-topaz-theme@@loading-diy-text": "\"轻 认真 尊重 慎独 超脱\"",
   "CodeMirror Options@@cm-theme-selection": "cm-theme-dracula",
-  "CodeMirror Options@@cm5-minimal-embeds": true,
   "CodeMirror Options@@cm-font-monospace": "Fira Code, Jetbrains Mono, SFMono-Regular, Consolas, \"Roboto Mono\", monospace",
   "ITS@@s-d": false,
   "ITS@@slrvb-g": false,
@@ -105,7 +104,7 @@
   "blue-topaz-theme@@font-weight-inline-code": "\"\"",
   "Blue-Topaz-Codebox-Highlight@@letter-space-code": 0,
   "Blue-Topaz-Codebox-Highlight@@blur-codebox-frosted-glass": 2,
-  "Border@@tab-autohide": true,
+  "Border@@tab-autohide": false,
   "Border@@left-sidebar-background-primary": true,
   "Border@@Ribbon-autohide": true,
   "Border@@status-bar-autohide": true,
@@ -119,5 +118,6 @@
   "Border@@h3-divider-off": true,
   "Border@@h4-divider-off": true,
   "Border@@h5-divider-off": true,
-  "Border@@h6-divider-off": true
+  "Border@@h6-divider-off": true,
+  "Border@@line-active-disable": true
 }
