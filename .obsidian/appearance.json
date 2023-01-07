@@ -2,7 +2,7 @@
   "baseFontSize": 14,
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "Border",
   "interfaceFontFamily": "Fira Code",
   "textFontFamily": "Fira Code",
   "monospaceFontFamily": "Fira Code",
