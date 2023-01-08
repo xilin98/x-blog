@@ -329,7 +329,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -346,17 +347,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b490c9b7a5b72cb3",
+  "active": "48e87668cbff994a",
   "lastOpenFiles": [
-    "source/_posts/javaScript 基础.md",
+    "source/_posts/前端工程化/常用的 npm 命令.md",
+    "source/_posts/前端工程化/monorepo.md",
     "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+    "source/_posts/javaScript 基础.md",
     "source/_posts/概念和常识/命令行相关.md",
     "source/_posts/概念和常识/常用的 npm 命令及 flag.md",
     "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
     "source/_posts/编程小技巧/编程小技巧（little trick）- 1.md",
     "source/_posts/算法/岛屿数量.md",
-    "source/_posts/经验/常见的低级错误.md",
-    "box/2022-12-02.md",
-    "box/2022-12-01.md"
+    "source/_posts/经验/常见的低级错误.md"
   ]
 }

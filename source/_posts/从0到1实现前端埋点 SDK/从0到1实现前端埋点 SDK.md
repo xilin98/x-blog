@@ -33,14 +33,12 @@ ts + rollup
 ## 项目结构
 
 ```
-.
-├── LICENSE
-├── README.md
-├── package.json
-└── src
-    ├── core
-    ├── types
-    └── utils
+src
+--core
+--types
+--utils
+rollup.config.js
+tsconfig.json
 ```
 
 ## 安装相关依赖
@@ -51,13 +49,12 @@ npm install rollup-plugin-dts -D
 npm install rollup-plugin-typescript2 -D
 npm install typescript -D
 ```
-- rollup-plugin-dts 是一个 Rollup 插件，用于将 TypeScript 声明文件转换为 JavaScript 代码，并生成相应的 `*.d.ts` 文件。这个插件可以帮助你在使用 TypeScript 编写的 JavaScript 库的时候更方便地生成声明文件。
+rollup-plugin-dts 是一个 Rollup 插件，用于将 TypeScript 声明文件转换为 JavaScript 代码，并生成相应的 `*.d.ts` 文件。这个插件可以帮助你在使用 TypeScript 编写的 JavaScript 库的时候更方便地生成声明文件。
 
 ## 配置 rollup 
 📄 rollup.config.js
 ```js
 import ts from "rollup-plugin-typescript2"
-import path from "path"
 import dts from "rollup-plugin-dts"
 export default [
   {
@@ -66,23 +63,21 @@ export default [
     output: [
       //打包esModule
       {
-        file: path.resolve(__dirname, "./dist/index.esm.js"),
+        file: "./dist/index.esm.js",
         format: "es",
       },
       //打包common js
       {
-        file: path.resolve(__dirname, "./dist/index.cjs.js"),
+        file: "./dist/index.cjs.js"
         format: "cjs",
       },
       //打包 AMD CMD UMD
       {
-        input: "./src/core/index.ts",
-        file: path.resolve(__dirname, "./dist/index.js"),
+        file: "./dist/index.js",
         format: "umd",
-        name: "tracker",
       },
     ],
-    //配置ts
+    //配置 ts 插件
     plugins: [ts()],
   },
   {

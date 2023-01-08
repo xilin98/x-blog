@@ -58,8 +58,8 @@
     "package": {
       "package": {
         "currentVault": {
-          "count": 4,
-          "lastUpdated": 1671189347944
+          "count": 5,
+          "lastUpdated": 1673177597896
         }
       }
     },
@@ -488,6 +488,14 @@
         "frontMatter": {
           "count": 4,
           "lastUpdated": 1673085664761
+        }
+      }
+    },
+    "tsconfig": {
+      "tsconfig": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1673177640225
         }
       }
     }
