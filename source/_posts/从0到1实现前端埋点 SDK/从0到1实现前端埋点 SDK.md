@@ -114,25 +114,25 @@ export default [
 ```ts
 export interface DefaultOpitons {
   // 唯一标识符
-  uuid: string | undefined,
+  uuid?: string,
 
   // 上报地址
-  requestUrl: string,
+  requestUrl?: string,
 
   // 是否监听 hash 路由
-  hashTracker: boolean | undefined,
+  hashTracker: boolean,
 
   // 是否监听 history 路由
-  historyTracker: boolean | undefined,
+  historyTracker: boolean,
 
   // 是否监听 dom
-  domTracker: boolean | undefined,
+  domTracker: boolean,
 
   // 其他配置信息
-  extra: string | undefined,
+  extra?: Record<string, any>,
 
   // 版本号
-  sdkVersion: string | undefined,
+  sdkVersion: string | number,
 } 
 ```
 
@@ -140,7 +140,7 @@ export interface DefaultOpitons {
 📃 /types/index.ts
 ```ts
 export interface Opitons extends Partial<DefaultOpitons>{
-  requestUrl: string | undefined
+  requestUrl: string,
 }
 ```
 
