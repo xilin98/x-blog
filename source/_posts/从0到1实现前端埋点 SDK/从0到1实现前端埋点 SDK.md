@@ -33,10 +33,10 @@ ts + rollup
 ## 项目结构
 
 ```
-src
---core
---types
---utils
+src/
+--core/
+--types/
+--utils/
 rollup.config.js
 tsconfig.json
 ```
