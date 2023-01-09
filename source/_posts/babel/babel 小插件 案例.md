@@ -4,7 +4,7 @@ date: 2022/12/16
 title: babel 小插件 案例
 tags: 
   - babel
-  - 前端工程hx
+  - 前端工程化
 categories:
   - babel
 ---

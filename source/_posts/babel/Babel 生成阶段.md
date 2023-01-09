@@ -3,7 +3,7 @@ date: 2022/10/15
 title: Babel 生成阶段
 tags: 
   - babel 
-  - 前端工程hx
+  - 前端工程化
 categories:
   - babel
 ---

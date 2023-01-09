@@ -16,46 +16,60 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b490c9b7a5b72cb3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
                 },
                 {
-                  "title": "命令行相关",
+                  "title": "Babel 流程整合",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/命令行相关.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/Babel 流程整合.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":19},\"to\":{\"line\":19,\"ch\":19}},\"scroll\":8.823529411764707}"
                 },
                 {
-                  "title": "常用的 npm 命令及 flag",
+                  "title": "babel 小插件 案例",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/常用的 npm 命令及 flag.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/babel 小插件 案例.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":9}}}"
                 },
                 {
-                  "title": "命令行相关",
+                  "title": "抽象语法树(AST)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/命令行相关.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":3.8692809460209867}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/抽象语法树(AST).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "初识 Babel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/初识 Babel.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "mini-vue 0 概览",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-vue 0 概览.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.746031988234747}"
+                },
+                {
+                  "title": "mini-vue 12 实现 Slot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-vue 12 实现 Slot.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":27},\"to\":{\"line\":14,\"ch\":27}}}"
+                },
+                {
+                  "title": "mini-vue 1 虚拟 DOM 节点",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-vue 1 虚拟 DOM 节点.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":6},\"to\":{\"line\":3,\"ch\":6}}}"
+                },
+                {
+                  "title": "mini-vue 12 实现 Slot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-vue 12 实现 Slot.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":18},\"to\":{\"line\":2,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "mini-vue 1 虚拟 DOM 节点",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/mini-vue/mini-vue 1 虚拟 DOM 节点.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":14},\"to\":{\"line\":12,\"ch\":14}}}"
                 },
                 {
                   "title": "heLLo ：）",
@@ -67,26 +81,44 @@
                   "title": "javaScript 基础",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/javaScript 基础.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "HTTP 和 HTTPS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/计算机网络/HTTP 和 HTTPS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":9},\"to\":{\"line\":6,\"ch\":9}},\"scroll\":0}"
+                },
+                {
+                  "title": "Babel 流程整合",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/Babel 流程整合.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":25.894344693138486}"
+                },
+                {
+                  "title": "Babel 生成阶段",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/Babel 生成阶段.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":9},\"to\":{\"line\":5,\"ch\":9}}}"
+                },
+                {
+                  "title": "babel 小插件 案例",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/babel/babel 小插件 案例.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":9}}}"
                 },
                 {
                   "title": "从0到1实现前端埋点 SDK",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":98,\"ch\":0},\"to\":{\"line\":98,\"ch\":0}},\"scroll\":60.2767824445452}"
-                },
-                {
-                  "title": "javaScript 基础",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/javaScript 基础.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/概念和常识/常用的 npm 命令及 flag.md",
+                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -334,8 +366,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "0c9de1c562ddd93e",
@@ -365,7 +396,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -382,17 +414,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "506ea2c38c1551b0",
+  "active": "cefbf1ea71740bd4",
   "lastOpenFiles": [
-    "source/_posts/概念和常识/常用的 npm 命令及 flag.md",
-    "source/_posts/概念和常识/命令行相关.md",
-    "source/_posts/heLLo ：）.md",
-    "source/_posts/javaScript 基础.md",
-    "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
-    "source/_posts/前端工程化/常用的 npm 命令.md",
-    "source/_posts/前端工程化/monorepo.md",
-    "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
-    "source/_posts/编程小技巧/编程小技巧（little trick）- 1.md",
-    "source/_posts/算法/岛屿数量.md"
+    "source/_posts/babel/Babel 流程整合.md",
+    "source/_posts/babel/babel 小插件 案例.md",
+    "source/_posts/babel/抽象语法树(AST).md",
+    "source/_posts/babel/初识 Babel.md",
+    "source/_posts/算法/岛屿数量.md",
+    "source/_posts/算法/去重方案.md",
+    "source/_posts/算法/四数之和.md",
+    "source/_posts/算法/时间复杂度和空间复杂度.md",
+    "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md",
+    "source/_posts/算法/方法论.md"
   ]
 }

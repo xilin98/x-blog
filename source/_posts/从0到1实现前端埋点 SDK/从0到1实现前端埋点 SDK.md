@@ -41,6 +41,14 @@ rollup.config.js
 tsconfig.json
 ```
 
+## 初始化项目
+```shell
+npm init -y
+```
+
+因为 rollup 使用 esm, 所以在 package.json 中加上
+`"type": module`
+
 ## 安装相关依赖
 
 ```bash
@@ -49,7 +57,7 @@ npm install rollup-plugin-dts -D
 npm install rollup-plugin-typescript2 -D
 npm install typescript -D
 ```
-rollup-plugin-dts 是一个 Rollup 插件，用于将 TypeScript 声明文件转换为 JavaScript 代码，并生成相应的 `*.d.ts` 文件。这个插件可以帮助你在使用 TypeScript 编写的 JavaScript 库的时候更方便地生成声明文件。
+其中 rollup-plugin-dts 是一个 Rollup 插件，用于将 TypeScript 声明文件转换为 JavaScript 代码，并生成相应的 `*.d.ts` 文件。这个插件可以帮助你在使用 TypeScript 编写的 JavaScript 库的时候更方便地生成声明文件。
 
 ## 配置 rollup 
 📄 rollup.config.js
@@ -96,5 +104,63 @@ export default [
 
 加上打包命令 `build`: `rollup -c`
 
+## 初始化 Tracker 类
+
+### 定义选项类型
+我们给用户提供一个默认选项，并且用户可以传入个性化地配置。
+
+默认选项的类型如下，
+📃 /types/index.ts
+```ts
+export interface DefaultOpitons {
+  // 唯一标识符
+  uuid: string | undefined,
+
+  // 上报地址
+  requestUrl: string,
+
+  // 是否监听 hash 路由
+  hashTracker: boolean | undefined,
+
+  // 是否监听 history 路由
+  historyTracker: boolean | undefined,
+
+  // 是否监听 dom
+  domTracker: boolean | undefined,
+
+  // 其他配置信息
+  extra: string | undefined,
+
+  // 版本号
+  sdkVersion: string | undefined,
+} 
+```
+
+我们再定义一下可以选择性的配置类型 Options, 它是默认选项的一部分，所以我们通过 `Partial` 来实现：
+📃 /types/index.ts
+```ts
+export interface Opitons extends Partial<DefaultOpitons>{
+  requestUrl: string | undefined
+}
+```
+
+## 定义 Tracker 类
+📃 /core/index.ts
+```ts
+import {Options, DefaultOPtions} from './types'
+class Tracker {
+  public data: Options;
+  constructor(opitons: Options){
+    this.data = Object.assign(this.initDef(), options);
+  }
+  private initDef(): DefaultOptions{
+     return <defaultOpitons> {
+        hashTracker: false,
+        historyTracker: false,
+        domTracker: false,
+     }
+  }
+}
+```
 
 
