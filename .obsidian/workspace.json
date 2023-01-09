@@ -40,6 +40,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "命令行相关",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/命令行相关.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "常用的 npm 命令及 flag",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/常用的 npm 命令及 flag.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "命令行相关",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/命令行相关.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":3.8692809460209867}"
+                },
+                {
+                  "title": "heLLo ：）",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/heLLo ：）.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "javaScript 基础",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/javaScript 基础.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "从0到1实现前端埋点 SDK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":98,\"ch\":0},\"to\":{\"line\":98,\"ch\":0}},\"scroll\":60.2767824445452}"
+                },
+                {
                   "title": "javaScript 基础",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/javaScript 基础.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -50,15 +86,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+                "file": "source/_posts/概念和常识/常用的 npm 命令及 flag.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -299,7 +334,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "0c9de1c562ddd93e",
@@ -329,8 +365,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -347,17 +382,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b490c9b7a5b72cb3",
+  "active": "506ea2c38c1551b0",
   "lastOpenFiles": [
+    "source/_posts/概念和常识/常用的 npm 命令及 flag.md",
+    "source/_posts/概念和常识/命令行相关.md",
+    "source/_posts/heLLo ：）.md",
+    "source/_posts/javaScript 基础.md",
+    "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
     "source/_posts/前端工程化/常用的 npm 命令.md",
     "source/_posts/前端工程化/monorepo.md",
-    "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
-    "source/_posts/javaScript 基础.md",
-    "source/_posts/概念和常识/命令行相关.md",
-    "source/_posts/概念和常识/常用的 npm 命令及 flag.md",
     "source/_posts/概念和常识/SDK 和 API 有什么区别.md",
     "source/_posts/编程小技巧/编程小技巧（little trick）- 1.md",
-    "source/_posts/算法/岛屿数量.md",
-    "source/_posts/经验/常见的低级错误.md"
+    "source/_posts/算法/岛屿数量.md"
   ]
 }

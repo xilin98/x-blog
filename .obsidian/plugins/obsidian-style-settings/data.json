@@ -108,7 +108,7 @@
   "Border@@left-sidebar-background-primary": true,
   "Border@@Ribbon-autohide": true,
   "Border@@status-bar-autohide": true,
-  "Border@@CTA-BTN-disable": false,
+  "Border@@CTA-BTN-disable": true,
   "Border@@setting-item-title-icon-remove": false,
   "Border@@colorful-folder": true,
   "Border@@tab-title-bar": "tab-title-bar-autohide",
@@ -119,5 +119,6 @@
   "Border@@h4-divider-off": true,
   "Border@@h5-divider-off": true,
   "Border@@h6-divider-off": true,
-  "Border@@line-active-disable": true
+  "Border@@line-active-disable": true,
+  "Border@@scrollbar-space-occupation-off": true
 }
