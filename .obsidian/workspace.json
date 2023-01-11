@@ -264,7 +264,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0c9de1c562ddd93e",
@@ -292,8 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,7 +310,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac56cba366c9613b",
+  "active": "dc1003a1cd09a3c2",
   "lastOpenFiles": [
     "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
     "source/_posts/babel/Babel 流程整合.md",
