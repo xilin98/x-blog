@@ -20,8 +20,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/后端开发和 APIs/使用 npm 管理软件包.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/后端开发和 APIs/使用 npm 管理软件包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/后端开发和 APIs/使用 npm 管理软件包.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -264,8 +271,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c9de1c562ddd93e",
@@ -286,7 +292,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/后端开发和 APIs/使用 npm 管理软件包.md"
+              }
             }
           }
         ]
@@ -310,7 +318,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dc1003a1cd09a3c2",
+  "active": "ac56cba366c9613b",
   "lastOpenFiles": [
     "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
     "source/_posts/babel/Babel 流程整合.md",
