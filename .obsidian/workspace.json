@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac56cba366c9613b",
+            "id": "1ec51e055d8f1983",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,37 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "命令行相关",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/命令行相关.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":30},\"to\":{\"line\":20,\"ch\":30}},\"scroll\":0}"
+                },
+                {
+                  "title": "辅助网站",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/辅助网站.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":145},\"to\":{\"line\":9,\"ch\":145}}}"
+                },
+                {
+                  "title": "命令行相关",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/命令行相关.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "辅助网站",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/辅助网站.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":145},\"to\":{\"line\":9,\"ch\":145}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/后端开发和 APIs/使用 npm 管理软件包.md",
+                "file": "source/_posts/后端开发和 APIs/基础 Node 和 Express.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/后端开发和 APIs/使用 npm 管理软件包.md",
+                "file": "source/_posts/后端开发和 APIs/基础 Node 和 Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/后端开发和 APIs/使用 npm 管理软件包.md",
+                "file": "source/_posts/后端开发和 APIs/基础 Node 和 Express.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/后端开发和 APIs/使用 npm 管理软件包.md"
+                "file": "source/_posts/后端开发和 APIs/基础 Node 和 Express.md"
               }
             }
           }
@@ -318,17 +342,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac56cba366c9613b",
+  "active": "1ec51e055d8f1983",
   "lastOpenFiles": [
+    "source/_posts/概念和常识/命令行相关.md",
+    "source/_posts/概念和常识/辅助网站.md",
+    "source/_posts/后端开发和 APIs/基础 Node 和 Express.md",
+    "source/_posts/javaScript 基础.md",
+    "source/categories/index.md",
+    "source/tags/index.md",
+    "source/_posts/后端开发和 APIs/使用 npm 管理软件包.md",
     "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
     "source/_posts/babel/Babel 流程整合.md",
-    "source/_posts/babel/babel 小插件 案例.md",
-    "source/_posts/babel/抽象语法树(AST).md",
-    "source/_posts/babel/初识 Babel.md",
-    "source/_posts/算法/岛屿数量.md",
-    "source/_posts/算法/去重方案.md",
-    "source/_posts/算法/四数之和.md",
-    "source/_posts/算法/时间复杂度和空间复杂度.md",
-    "source/_posts/算法/深度优先遍历(DFS)和广度优先遍历(BFS).md"
+    "source/_posts/babel/babel 小插件 案例.md"
   ]
 }
