@@ -163,5 +163,9 @@ class Tracker {
 }
 ```
 
+## 实现 page view
+
+yu
+现在 📄utils/pv.js 里面实现一个
 
 
