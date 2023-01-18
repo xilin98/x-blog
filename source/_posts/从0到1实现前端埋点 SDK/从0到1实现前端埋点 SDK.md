@@ -144,7 +144,7 @@ export interface Opitons extends Partial<DefaultOpitons>{
 }
 ```
 
-## 定义 Tracker 类
+### 定义 Tracker 类
 📃 /core/index.ts
 ```ts
 import {Options, DefaultOPtions} from './types'
@@ -165,7 +165,90 @@ class Tracker {
 
 ## 实现 page view
 
-于
-现在 📄utils/pv.js 里面实现一个
+- 使 pushState 和 replaceState 可以被监听,
+因为 `addEventListener` 监听不到 History API 中的 pushState 和 replaceState, 可以采用装饰器模式对其重写在 📄utils/pv.ts 里面实现一个
+```ts
+export function createHistoryEvent<T extends keyof History>(type: T){
+    origin = window.history[type];
+    return function(this: any){
+      const e = new Event(type);
+      const window.dispatchEvent(e)
+      const res = origin.apply(this, arguments);
+      return res
+    }
+}
+```
+
+- 实现监听
+在 core/index.ts 中实现监听逻辑
+
+```ts
+class Tracker {
+  ...
+  constructor(){
+    ...
+    this.installTracker();
+  }
+  ...
+  private installTracker(){
+    if(this.data.historyTracker){
+      this.captureEvent(["pushState", "replaceState", "popState"], "history-page-view")
+    }
+    if(this.date.hashTracker){
+      this.captureEvent(['hashChange'], "hash-page-view")
+    }
+  }
+
+  private captureEvent(mouseEventList: string [], targetKey: string, date?: any){
+     mouseEventList.forEach(e=>{
+       window.addEventListener(e, (e)=>{
+          console.log("页面跳转已被监听", e)
+       })
+     })
+  }
+}
+```
+
+## 实现 unique visitor 
+
+未登陆的访客(一台计算机作为一个访客)如何进行记录呢
+解决方案一：
+将一个 uuid 存在 localStorage 里
+
+解决方案二：
+使用 canvas 指纹追踪技术
+
+这里使用第一种方法，在 Tracker 类中暴露两个公共类来设置 uuid 和 extra 字段
+
+```ts
+class Tracker{
+  ...
+  public  setUserId<T extends DefaultOpitons["uuid"]>(uuid: T){
+    this.data["uuid"] =  uuid;
+  }
+
+  public setExtra<T extends DefaultOpitons["extra"]>(extra: T){
+    this.data["extra"] = extra;
+  }
+  ...
+}
+```
+
+## 上报
+
+对监听到的信息进行上报
+
+### XMLHttpRequest vs Navigator.sendBeacon
+- Navigator.sendBeacon 方法在页面卸载时发送数据，XMLHttpRequest 可以在任何时间发送数据。
+- XMLHttpRequest 可以发送任何类型的 HTTP 请求，而 Navigator.sendBeacon 只能发送 HTTP POST 请求。
+- XMLHttpRequest 还可以处理请求和响应的头部信息，而 Navigator.sendBeacon 不能。
+- Navigator.sendBeacon 方法可以将数据发送到服务器，即使页面已经卸载了，而XMLHttpRequest 无法保证数据在页面卸载后发送到服务器。
+- 浏览器对于XMLHttpRequest的支持度高于Navigator.sendBeacon，所以XMLHttpRequest在兼容性上会更好。
+- Navigator.sendBeacon 和 XMLHttpRequest 在发送数据的类型上有所不同。
+  Navigator.sendBeacon 只能发送 ArrayBufferView、Blob、USVString 类型的数据。
+  XMLHttpRequest 可以发送多种数据类型，包括 ArrayBufferView、Blob、Document、DOMString、FormData、URLSearchParams 等。
+  因为 Navigator.sendBeacon 可以在页面关闭后继续发送，所以我们采用 Navigator.sendBeacon
 
 
+
+  

@@ -71,190 +71,6 @@
         }
       }
     },
-    "phase": {
-      "phase": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1671125003558
-        }
-      }
-    },
-    "解析阶段": {
-      "解析阶段": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1671125013829
-        }
-      }
-    },
-    "中：": {
-      "中：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671160279417
-        }
-      }
-    },
-    "结构如下：": {
-      "结构如下：": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1671160685602
-        }
-      }
-    },
-    "语句：": {
-      "语句：": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1671160663174
-        }
-      }
-    },
-    "FunctionDeclaration": {
-      "FunctionDeclaration": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1671162262341
-        }
-      }
-    },
-    "AST": {
-      "AST": {
-        "currentFile": {
-          "count": 6,
-          "lastUpdated": 1671168038355
-        }
-      }
-    },
-    "CallExpression": {
-      "CallExpression": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671164742306
-        }
-      }
-    },
-    "statement": {
-      "statement": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1671168345495
-        }
-      }
-    },
-    "declaration": {
-      "declaration": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1671165318961
-        }
-      }
-    },
-    "do-while": {
-      "do-while": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671166415824
-        }
-      }
-    },
-    "与位置有关的节点": {
-      "与位置有关的节点": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671169159688
-        }
-      }
-    },
-    "注释节点": {
-      "注释节点": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671170731898
-        }
-      }
-    },
-    "节点：": {
-      "节点：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671170795663
-        }
-      }
-    },
-    "表达式。它的签名如下：": {
-      "表达式。它的签名如下：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671173934077
-        }
-      }
-    },
-    "@babel": {
-      "@babel": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1671181817417
-        }
-      }
-    },
-    "type": {
-      "type": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1671177485177
-        }
-      }
-    },
-    "AST：": {
-      "AST：": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671178530819
-        }
-      }
-    },
-    "2022/10/15": {
-      "2022/10/15": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1671181560353
-        }
-      }
-    },
-    "js": {
-      "js": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1671180040869
-        }
-      }
-    },
-    "babel": {
-      "babel": {
-        "frontMatter": {
-          "count": 11,
-          "lastUpdated": 1671192540239
-        }
-      }
-    },
-    "column": {
-      "column": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1671185557880
-        }
-      }
-    },
-    "StringLiteral": {
-      "StringLiteral": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1671185114438
-        }
-      }
-    },
     "前端工程化": {
       "前端工程化": {
         "frontMatter": {
@@ -526,8 +342,8 @@
     "DefaultOpitons": {
       "DefaultOpitons": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1673251468350
+          "count": 4,
+          "lastUpdated": 1674014003895
         }
       }
     },
@@ -542,16 +358,16 @@
     "hashTracker": {
       "hashTracker": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673251151009
+          "count": 2,
+          "lastUpdated": 1674013613960
         }
       }
     },
     "historyTracker": {
       "historyTracker": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1673251212995
+          "count": 2,
+          "lastUpdated": 1674012285111
         }
       }
     },
@@ -600,6 +416,86 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1673425285763
+        }
+      }
+    },
+    "dispatch": {
+      "dispatch": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1674011897560
+        }
+      }
+    },
+    "addEventListener": {
+      "addEventListener": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1674013012949
+        }
+      }
+    },
+    "replace": {
+      "replace": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1674012128150
+        }
+      }
+    },
+    "construct": {
+      "construct": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1674012214098
+        }
+      }
+    },
+    "captureEvent": {
+      "captureEvent": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674013621054
+        }
+      }
+    },
+    "mouseEventList": {
+      "mouseEventList": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674012980460
+        }
+      }
+    },
+    "localStorage": {
+      "localStorage": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674013454838
+        }
+      }
+    },
+    "XMLHttpRequest": {
+      "XMLHttpRequest": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674014598751
+        }
+      }
+    },
+    "Navigator": {
+      "Navigator": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1674015937959
+        }
+      }
+    },
+    "sendBeacon": {
+      "sendBeacon": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674015941563
         }
       }
     }
