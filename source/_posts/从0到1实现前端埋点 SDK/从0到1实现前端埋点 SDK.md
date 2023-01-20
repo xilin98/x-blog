@@ -250,5 +250,4 @@ class Tracker{
   因为 Navigator.sendBeacon 可以在页面关闭后继续发送，所以我们采用 Navigator.sendBeacon
 
 
-
   

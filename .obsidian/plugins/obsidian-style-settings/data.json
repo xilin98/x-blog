@@ -49,7 +49,7 @@
   "blue-topaz-theme@@stack-tabs-text-ori-options": "default-stack-text-ori-style",
   "blue-topaz-theme@@nowrap-outline": false,
   "blue-topaz-theme@@loading-diy-text": "\"轻 认真 尊重 慎独 超脱\"",
-  "CodeMirror Options@@cm-theme-selection": "cm-theme-dracula",
+  "CodeMirror Options@@cm-theme-selection": "cm-theme-material-palenight",
   "CodeMirror Options@@cm-font-monospace": "Fira Code, Jetbrains Mono, SFMono-Regular, Consolas, \"Roboto Mono\", monospace",
   "ITS@@s-d": false,
   "ITS@@slrvb-g": false,
