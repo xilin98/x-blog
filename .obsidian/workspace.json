@@ -374,7 +374,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -391,7 +392,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dc1003a1cd09a3c2",
+  "active": "1ec51e055d8f1983",
   "lastOpenFiles": [
     "source/_posts/经验/常见的低级错误.md",
     "source/_posts/计算机网络/HTTP 和 HTTPS.md",

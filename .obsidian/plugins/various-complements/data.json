@@ -76,10 +76,6 @@
         "frontMatter": {
           "count": 4,
           "lastUpdated": 1672988797735
-        },
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1671361529245
         }
       }
     },
@@ -91,43 +87,11 @@
         }
       }
     },
-    "为基本单元": {
-      "为基本单元": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671442775104
-        }
-      }
-    },
-    "设计模式": {
-      "设计模式": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1671444742264
-        }
-      }
-    },
     "typescript": {
       "typescript": {
         "currentVault": {
           "count": 2,
           "lastUpdated": 1673059807999
-        }
-      }
-    },
-    "IceCream": {
-      "IceCream": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1671510596298
-        }
-      }
-    },
-    "implement": {
-      "implement": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1671511455740
         }
       }
     },
@@ -494,8 +458,32 @@
     "sendBeacon": {
       "sendBeacon": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1674015941563
+          "count": 3,
+          "lastUpdated": 1674557097768
+        }
+      }
+    },
+    "Object": {
+      "Object": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674556858138
+        }
+      }
+    },
+    "navigate": {
+      "navigate": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674557094600
+        }
+      }
+    },
+    "report": {
+      "report": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1674557108785
         }
       }
     }
