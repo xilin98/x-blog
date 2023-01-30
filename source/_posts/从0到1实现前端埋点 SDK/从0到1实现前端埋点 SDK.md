@@ -258,5 +258,10 @@ private reportTracker(data){
 }
 ```
 
+### 然后我们在上层调用它
 
-  ``
+```js
+
+```
+ 
+
