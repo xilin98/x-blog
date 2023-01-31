@@ -30,7 +30,7 @@ ts + rollup
 - Rollup 使用树摇晃（tree-shaking）机制来删除未使用的代码。Webpack 也支持树摇晃，但需要使用 UglifyJS 插件。
 - Rollup 具有较少的配置选项，因此它可能更容易使用。Webpack 具有更多的配置选项，但也提供了更多的灵活性。
 
-## 项目结构
+## 项目结构 
 
 ```
 src/
