@@ -254,6 +254,7 @@ class Tracker{
 我们分两层，首先我们实现以下一个私有的方法用来发送数据。
 ```js
 private reportTracker(data){
+  
   navigate.sendBeacon(this.data.reportUrl, data);
 }
 ```
@@ -261,7 +262,10 @@ private reportTracker(data){
 ### 然后我们在上层调用它
 
 ```js
-
+private senndTracker(data){
+  this.reportTracker(data);
+}
 ```
+
  
 

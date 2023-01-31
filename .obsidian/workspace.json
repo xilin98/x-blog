@@ -343,8 +343,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c9de1c562ddd93e",
@@ -391,7 +390,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1ec51e055d8f1983",
+  "active": "48e87668cbff994a",
   "lastOpenFiles": [
     "source/_posts/经验/常见的低级错误.md",
     "source/_posts/计算机网络/HTTP 和 HTTPS.md",
