@@ -30,6 +30,8 @@ ts + rollup
 - Rollup 使用树摇晃（tree-shaking）机制来删除未使用的代码。Webpack 也支持树摇晃，但需要使用 UglifyJS 插件。
 - Rollup 具有较少的配置选项，因此它可能更容易使用。Webpack 具有更多的配置选项，但也提供了更多的灵活性。
 
+「rollup 适合对工具类的库进行打包， webpack 适合对项目类的库进行打包」
+
 ## 项目结构 
 
 ```
@@ -254,8 +256,13 @@ class Tracker{
 我们分两层，首先我们实现以下一个私有的方法用来发送数据。
 ```js
 private reportTracker(data){
-  
-  navigate.sendBeacon(this.data.reportUrl, data);
+  // sendBeacon 可以发送 blob 
+  const params = Object.assign(this.data, data, { time: new Date().getTime() })
+  let headers = {
+      type: 'application/x-www-form-urlencoded'
+  };
+  let blob = new Blob([JSON.stringify(params)], headers);
+  navigator.sendBeacon(this.data.requestUrl, blob)
 }
 ```
 
@@ -263,9 +270,13 @@ private reportTracker(data){
 
 ```js
 private senndTracker(data){
-  this.reportTracker(data);
+  this.reportTracker(data)
 }
 ```
+
+
+
+
 
  
 
