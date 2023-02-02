@@ -113,6 +113,7 @@ export default [
 
 默认选项的类型如下，
 📃 /types/index.ts
+
 ```ts
 export interface DefaultOpitons {
   // 唯一标识符
