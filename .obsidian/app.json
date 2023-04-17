@@ -6,7 +6,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": false,
-  "vimMode": true,
+  "vimMode": false,
   "readableLineLength": true,
   "trashOption": "local",
   "fileSortOrder": "byCreatedTimeReverse",
@@ -29,5 +29,6 @@
   "useTab": false,
   "tabSize": 2,
   "newLinkFormat": "relative",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showFrontmatter": false
 }

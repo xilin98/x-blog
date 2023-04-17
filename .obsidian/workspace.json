@@ -10,91 +10,10 @@
           {
             "id": "1ec51e055d8f1983",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "常见的低级错误",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/经验/常见的低级错误.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":17},\"to\":{\"line\":45,\"ch\":17}},\"scroll\":0}"
-                },
-                {
-                  "title": "HTTP 和 HTTPS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/计算机网络/HTTP 和 HTTPS.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":77},\"to\":{\"line\":11,\"ch\":77}},\"scroll\":0}"
-                },
-                {
-                  "title": "从0到1实现前端埋点 SDK",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":108,\"ch\":0},\"to\":{\"line\":108,\"ch\":0}},\"scroll\":131.65575245448522}"
-                },
-                {
-                  "title": "编程小技巧（little trick）- 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/编程小技巧/编程小技巧（little trick）- 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":30},\"to\":{\"line\":62,\"ch\":30}},\"scroll\":43.38095238095238}"
-                },
-                {
-                  "title": "辅助网站",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/辅助网站.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "从0到1实现前端埋点 SDK",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":22},\"to\":{\"line\":79,\"ch\":22}},\"scroll\":96.20039930797759}"
-                },
-                {
-                  "title": "编程小技巧（little trick）- 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/编程小技巧/编程小技巧（little trick）- 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":31.571428571428573}"
-                },
-                {
-                  "title": "基础 Node 和 Express",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/后端开发和 APIs/基础 Node 和 Express.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":27},\"to\":{\"line\":30,\"ch\":27}},\"scroll\":0}"
-                },
-                {
-                  "title": "命令行相关",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/命令行相关.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":30},\"to\":{\"line\":20,\"ch\":30}},\"scroll\":0}"
-                },
-                {
-                  "title": "辅助网站",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/辅助网站.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":145},\"to\":{\"line\":9,\"ch\":145}}}"
-                },
-                {
-                  "title": "命令行相关",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/命令行相关.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "辅助网站",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"source/_posts/概念和常识/辅助网站.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":145},\"to\":{\"line\":9,\"ch\":145}},\"scroll\":0}"
-                }
-              ]
-            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+                "file": "source/_posts/heLLo ：）.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,15 +36,6 @@
           {
             "id": "cefbf1ea71740bd4",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "search",
               "state": {
@@ -141,15 +51,6 @@
           {
             "id": "711704664311ffe3",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -158,19 +59,10 @@
           {
             "id": "60e56d8f02e4dc66",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+                "file": "source/_posts/heLLo ：）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,19 +76,10 @@
           {
             "id": "bb293b9690c64009",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
+                "file": "source/_posts/heLLo ：）.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -205,15 +88,6 @@
           {
             "id": "976a034505021d6d",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -225,15 +99,6 @@
           {
             "id": "27d2563c522a3f37",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "code-execute-manage-executors",
               "state": {}
@@ -242,15 +107,6 @@
           {
             "id": "6d4b340efb57d9b2",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "starred",
               "state": {}
@@ -276,15 +132,6 @@
           {
             "id": "48e87668cbff994a",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -295,15 +142,6 @@
           {
             "id": "dc1003a1cd09a3c2",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "calendar",
               "state": {}
@@ -312,15 +150,6 @@
           {
             "id": "a498151d9a2bea62",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -329,15 +158,6 @@
           {
             "id": "4b9b244b327dc449",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "reminder-list",
               "state": {}
@@ -353,19 +173,10 @@
           {
             "id": "3fe573fc731f0fd2",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md"
+                "file": "source/_posts/heLLo ：）.md"
               }
             }
           }
@@ -373,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -384,23 +194,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
+      "markdown-importer:打开 Markdown 格式转换器": true,
       "periodic-notes:Open today": false
     }
   },
   "active": "1ec51e055d8f1983",
   "lastOpenFiles": [
+    "source/_posts/javaScript 基础.md",
+    "source/_posts/2023-04-09.md",
+    "source/_posts/编程小技巧/编程小技巧（little trick）- 1.md",
+    "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
     "source/_posts/经验/常见的低级错误.md",
     "source/_posts/计算机网络/HTTP 和 HTTPS.md",
-    "source/_posts/从0到1实现前端埋点 SDK/从0到1实现前端埋点 SDK.md",
-    "source/_posts/编程小技巧/编程小技巧（little trick）- 1.md",
     "source/_posts/概念和常识/辅助网站.md",
     "source/_posts/后端开发和 APIs/基础 Node 和 Express.md",
     "source/_posts/概念和常识/命令行相关.md",
-    "source/_posts/javaScript 基础.md",
     "source/categories/index.md",
     "source/tags/index.md"
   ]
